@@ -9,8 +9,9 @@ mkdir -p "$BIN_DIR"
 
 ln -sf "$ROOT/ln.sh"  "$BIN_DIR/lng"
 ln -sf "$ROOT/lnk.sh" "$BIN_DIR/lngk"
+ln -sf "$ROOT/db.sh"  "$BIN_DIR/db"
 
-chmod +x "$ROOT/ln.sh" "$ROOT/lnk.sh" 2>/dev/null || true
+chmod +x "$ROOT/ln.sh" "$ROOT/lnk.sh" "$ROOT/db.sh" 2>/dev/null || true
 
 RC_FILE="$HOME/.bashrc"
 if [[ -n "${ZSH_VERSION:-}" ]] || [[ "${SHELL:-}" == *"zsh"* ]]; then
@@ -25,5 +26,5 @@ if [[ ":$PATH:" != *":$BIN_DIR:"* ]]; then
   echo "   Restart terminal or run: source \"$RC_FILE\""
 fi
 
-echo "✅ Installed: lng, lngk"
+echo "✅ Installed: lng, lngk, db"
 echo "✨ Done."
