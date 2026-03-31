@@ -25,7 +25,18 @@ if [[ -z "${BASH_VERSION:-}" ]]; then
 fi
 
 # ---- Paths: kinh_a_di_da.md nằm cùng thư mục script ----
-_add_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+_add_SOURCE="${BASH_SOURCE[0]}"
+
+# resolve symlink để chạy đúng cả khi gọi qua ~/.local/bin/add3
+while [ -L "$_add_SOURCE" ]; do
+  _add_LINK="$(readlink "$_add_SOURCE")"
+  case "$_add_LINK" in
+    /*) _add_SOURCE="$_add_LINK" ;;
+    *)  _add_SOURCE="$(cd "$(dirname "$_add_SOURCE")" && pwd)/$_add_LINK" ;;
+  esac
+done
+
+_add_DIR="$(cd "$(dirname "$_add_SOURCE")" && pwd)"
 add_FILE="${add_FILE:-"$_add_DIR/kinh_a_di_da.md"}"
 
 # ---- Default options for A Di Đà ----
@@ -338,4 +349,4 @@ if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
   else
     add "$@"
   fi
-fi
+fi  
