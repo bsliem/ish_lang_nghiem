@@ -326,3 +326,22 @@ lnk() {
 
   ln "$start" $(( ((start - 1) / 12 + 1) * 12 ))
 }
+
+# ==========================================
+# Dispatcher
+# Cho phép chạy trực tiếp:
+#   bash ln_lang_nghiem.bash 13
+#   bash ln_lang_nghiem.bash 0*
+#   bash ln_lang_nghiem.bash lnk "tát đát"
+# ==========================================
+if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
+  case "${1:-}" in
+    k|lnk|search)
+      shift
+      lnk "$@"
+      ;;
+    *)
+      ln "$@"
+      ;;
+  esac
+fi
