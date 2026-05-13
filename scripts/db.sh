@@ -21,11 +21,13 @@ BOLD="\033[1m"
 DIM="\033[2m"
 
 WHITE="\033[37m"
+BRIGHT_WHITE="\033[97m"
 BRIGHT_GREEN="\033[92m"
 BRIGHT_YELLOW="\033[93m"
 BRIGHT_BLUE="\033[94m"
 BRIGHT_MAGENTA="\033[95m"
 BRIGHT_CYAN="\033[96m"
+GRAY="\033[90m"
 
 # ---------- nhận diện repo ----------
 if [ -d "$HOME/Documents/ish_lang_nghiem" ]; then
@@ -138,6 +140,7 @@ while IFS='|' read -r num content; do
 
   viet="$content"
   han=""
+  is_block_start=0
 
   case "$content" in
     *"#"*)
@@ -149,22 +152,25 @@ while IFS='|' read -r num content; do
   viet="$(echo "$viet" | sed 's/[[:space:]]*$//')"
   han="$(echo "$han" | sed 's/^[[:space:]]*//')"
 
+  # Nếu có dấu % đầu dòng thì chỉ xem là bắt đầu block
   if echo "$viet" | grep -q '^%'; then
+    is_block_start=1
     viet="$(echo "$viet" | sed 's/^%//')"
-    printf "\n${BRIGHT_BLUE}--------------------------------------------------${RESET}\n"
-    printf "${BRIGHT_YELLOW}${BOLD}%s.${RESET} ${BRIGHT_GREEN}${BOLD}%s${RESET}" "$num" "$viet"
-  else
-    printf "${BRIGHT_YELLOW}%s.${RESET} ${WHITE}%s${RESET}" "$num" "$viet"
   fi
 
+  if [ "$is_block_start" -eq 1 ]; then
+    printf "\n${BRIGHT_BLUE}--------------------------------------------------${RESET}\n"
+  fi
+
+  # Số câu vàng, tiếng Việt trắng, chữ Hán tím
+  printf "${BRIGHT_YELLOW}%s.${RESET} ${BRIGHT_WHITE}%s${RESET}" "$num" "$viet"
+
   if [ -n "$han" ]; then
-    printf " ${DIM}#${RESET} ${BRIGHT_MAGENTA}%s${RESET}" "$han"
+    printf " ${GRAY}#${RESET} ${BRIGHT_MAGENTA}%s${RESET}" "$han"
   fi
 
   printf "\n"
 
-  # Quan trọng:
-  # đọc phím từ bàn phím thật, không đọc từ pipe dữ liệu.
   key=""
   if [ -r /dev/tty ]; then
     read -rsn1 -t "$DELAY" key < /dev/tty
