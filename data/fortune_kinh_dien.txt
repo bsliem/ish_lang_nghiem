@@ -1,19 +1,109 @@
-Nam mô Bổn Sư Thích Ca Mâu Ni Phật.
-Nam mô A Di Đà Phật.
-Nam mô Đại Bi Quán Thế Âm Bồ Tát.
-Nam mô Địa Tạng Vương Bồ Tát.
-Tâm bình thường là đạo.
-Không làm các điều ác, siêng làm các điều lành, giữ tâm ý trong sạch, ấy lời chư Phật dạy.
-Biết đủ thì an vui.
-Một niệm sân khởi, trăm vạn cửa chướng mở.
-Tu là sửa mình, không phải sửa người.
-Đi chậm cũng được, miễn là đừng quay lui.
-Việc hôm nay, cứ làm bằng tâm sáng.
-Người biết quay về, đã bắt đầu đi đúng đường.
-Tâm không vướng mắc, đời tự nhẹ nhàng.
-Học một câu hay, thực hành một điều thiện.
-Mỗi lần mở terminal, nguyện mở thêm trí tuệ.
-Git pull thân nhẹ, git push tâm an.
-Code sạch, tâm cũng nên sạch.
-Một dòng lệnh đúng, tiết kiệm trăm lần loạn tâm.
-iSH nhỏ trong iPhone, nhưng đạo học thì rộng lớn.
+Quay về Phật Đảnh là quay về ánh sáng không bị nạn đời che khuất. # 佛頂・光明・歸依
+Người tu không cầu đời hết sóng, mà học cách giữ tâm không chìm. # 修行・守心・安定
+Chú Lăng Nghiêm không chỉ để tụng qua miệng, mà để dựng lại thành trì trong tâm. # 楞嚴咒・心城・護持
+Khi tâm loạn, một câu chú là một sợi dây kéo mình trở về. # 亂心・咒力・回歸
+Đại nạn không đáng sợ bằng việc để đại nạn đoạt mất đạo tâm. # 大難・道心・不失
+Tụng chú là học cách đứng vững giữa lửa, nước, nợ, sợ và vô minh. # 誦咒・無明・堅固
+Bạch Tán Cái che thân, nhưng trí tuệ Kim Cang mới che được tâm. # 白傘蓋・金剛・智慧
+Người đã qua nạn phải học thêm một điều: từ bi cần đi cùng trí tuệ. # 慈悲・智慧・歷劫
+Không phải ai thân cũng có thể giao hết vận mạng đời mình. # 親緣・警覺・護命
+Tha thứ không có nghĩa là mở cửa cho nạn cũ quay lại. # 寬恕・結界・防護
+Kết giới không phải là lạnh lòng, mà là bảo vệ thiện tâm khỏi bị lợi dụng. # 結界・善心・守護
+Từ bi không có ranh giới dễ biến thành tự hại. # 慈悲・邊界・智慧
+Lòng tốt phải có trí tuệ làm người gác cổng. # 善心・智慧・守門
+Một chữ ký thiếu tỉnh thức có thể thành một kiếp nợ dài. # 簽名・覺察・業債
+Giữ nhà là việc đời, giữ tâm là việc đạo. # 家宅・守心・修道
+Giữ việc là giữ sinh kế, giữ đạo tâm là giữ đường sống sâu hơn. # 工作・生計・道心
+Nợ ngoài trả bằng tiền, nợ trong trả bằng tỉnh thức. # 外債・內債・覺醒
+Người tu không phủ nhận khổ, mà dùng khổ làm đạo tràng. # 苦難・道場・修行
+Đêm mất ngủ cũng có thể là đạo tràng nếu biết quay về hơi thở. # 失眠・呼吸・道場
+Căn nhà từng bị đe dọa có thể trở thành nơi học vô thường. # 家宅・無常・覺悟
+Món nợ từng làm ta sợ có thể thành bài học về chánh niệm. # 債務・正念・學習
+Người làm ta đau cũng có thể trở thành vị thầy về giới hạn. # 傷害・界限・善知識
+Không để hận thù ngồi lên ngai trong lòng mình. # 瞋恨・內心・降伏
+Người khác có thể lấy tiền của ta, nhưng đừng để họ lấy tâm Phật nơi ta. # 財物・佛心・不失
+Đại nạn có thể làm thân mệt, nhưng không được để nó làm tâm ác. # 大難・身苦・善心
+Bị lừa mà không thành người độc, đó là một thắng lợi lớn. # 欺騙・無毒・勝利
+Mất mát mà sinh trí tuệ, đó là chuyển nghiệp. # 失去・智慧・轉業
+Đau khổ mà còn biết niệm Phật, đó là phước chưa mất. # 苦痛・念佛・福德
+Khi đời kéo xuống, câu chú kéo tâm lên. # 咒語・提心・護念
+Khi sợ hãi bao vây, Phật Đảnh là hướng để nhìn. # 恐懼・佛頂・方向
+Khi không còn tin vào sức mình, hãy nương nơi Tam Bảo. # 三寶・依止・信心
+Khi tâm muốn oán trách, hãy thở một hơi trước khi nói. # 怨心・呼吸・忍辱
+Khi nạn đến, trước hết hàng phục tâm loạn. # 災難・降伏・亂心
+Tâm chưa phục thì chướng chưa tan. # 心伏・障礙・消散
+Tâm đã an thì đường ra bắt đầu hiện. # 安心・出路・光明
+Chế phục được một niệm sợ là phá được một lớp chướng. # 制伏・恐懼・破障
+An định được một đêm là lấy lại một phần sinh lực. # 安定・夜晚・氣力
+Thành tựu không phải là hết khổ ngay, mà là không còn bị khổ kéo đi hoàn toàn. # 成就・苦難・自在
+Hổ hồng một tiếng, tâm loạn dừng lại. # 吽・亂心・止息
+Hổ hồng một tiếng, sợ hãi lùi ra. # 吽・恐懼・退散
+Hổ hồng một tiếng, đạo tâm đứng dậy. # 吽・道心・奮起
+Phá chướng trước hết là phá ý nghĩ mình đã hết đường. # 破障・絕望・轉念
+Tà thuyết nguy hiểm nhất là tiếng nói trong đầu bảo rằng mình không còn phước. # 邪說・福德・妄念
+Đừng tin tiếng tuyệt vọng; đó không phải tiếng của trí tuệ. # 絕望・智慧・正見
+Đừng tin tiếng hận thù; đó không phải tiếng của Phật tâm. # 瞋恨・佛心・清淨
+Đừng tin tiếng tự kết án; đó chỉ là bóng tối sau nạn. # 自責・黑暗・覺察
+Một câu kinh thấm vào tâm hơn ngàn lời than khổ. # 經句・入心・離苦
+Một niệm sáng có thể mở cửa trong một ngày tối. # 一念・光明・開門
+Một hơi thở biết rõ có thể cứu một tâm đang rơi. # 呼吸・覺知・救心
+Phật pháp không làm ta trốn đời, Phật pháp làm ta tỉnh trong đời. # 佛法・醒覺・入世
+Tụng chú không phải để né trách nhiệm, mà để có sức làm đúng trách nhiệm. # 誦咒・責任・正行
+Cầu Phật hộ trì không thay cho hành động đúng, mà làm hành động đúng có thêm ánh sáng. # 護持・行動・光明
+Giấy tờ phải rõ, tâm phải sáng, lời phải thật. # 文書・明心・真語
+Pháp lý cần trí tuệ; tâm linh cần tỉnh thức. # 法理・智慧・覺醒
+Gặp vương nạn thì càng phải ngay thẳng. # 王難・正直・堅定
+Gặp nợ nần thì càng phải lập kế hoạch. # 債務・計畫・安定
+Gặp người hại mình thì càng phải lập ranh giới. # 傷害・邊界・結界
+Gặp mất ngủ thì càng phải giữ hơi thở. # 失眠・呼吸・守心
+Gặp sợ hãi thì càng phải niệm Phật. # 恐懼・念佛・安住
+Gặp bất công thì càng phải giữ tâm không độc. # 不公・無毒・清心
+Kim Cang không phải là cứng lạnh, mà là vững để bảo vệ lòng lành. # 金剛・善心・護持
+Áo giáp Kim Cang là trí tuệ biết nói không đúng lúc. # 金剛鎧・智慧・止語
+Áo giáp Kim Cang là biết dừng trước một chữ ký nguy hiểm. # 金剛鎧・簽名・警覺
+Áo giáp Kim Cang là thương người nhưng không để người phá nhà mình. # 金剛鎧・慈悲・家宅
+Áo giáp Kim Cang là tha thứ mà vẫn nhớ bài học. # 金剛鎧・寬恕・教訓
+Sau nạn, người tu phải mềm trong lòng nhưng vững trong nguyên tắc. # 災後・柔心・原則
+Bạch Tán Cái che người biết quay về. # 白傘蓋・回歸・護念
+Đại Kim Cang giữ người không buông đạo tâm. # 大金剛・道心・不退
+Phật Đảnh soi người dám nhìn thẳng sự thật. # 佛頂・真實・照見
+Không nhìn thẳng sự thật thì không thể phá chướng. # 真實・破障・正見
+Sự thật có thể đau, nhưng tránh sự thật còn đau lâu hơn. # 真實・痛苦・面對
+Biết mình từng mê là bắt đầu có trí. # 迷惑・智慧・覺悟
+Biết mình từng cả tin là bắt đầu có phòng hộ. # 輕信・防護・智慧
+Biết mình từng sợ là bắt đầu học vô úy. # 恐懼・無畏・修學
+Biết mình từng mất là bắt đầu học vô thường. # 失去・無常・覺醒
+Biết mình còn đạo tâm là biết mình chưa mất hết. # 道心・不失・希望
+Đại bố úy có thể mở cửa đại tự tại. # 大怖畏・大自在・轉化
+Nơi sợ hãi lớn nhất có thể sinh ra trí tuệ lớn nhất. # 恐懼・智慧・出生
+Nơi từng là nạn có thể trở thành đạo tràng. # 災難・道場・轉化
+Nơi từng là nước mắt có thể trở thành chỗ phát nguyện. # 眼淚・發願・修行
+Nơi từng là mất ngủ có thể trở thành chỗ niệm Phật. # 失眠・念佛・道場
+Nơi từng là nợ có thể trở thành bài học về nhân duyên. # 債務・因緣・學習
+Nơi từng là phản bội có thể trở thành bài học về kết giới. # 背叛・結界・智慧
+Đừng để quá khứ biến thành xiềng; hãy biến nó thành giới luật. # 過去・戒律・解脫
+Đừng để tổn thương biến thành độc; hãy biến nó thành trí. # 傷痛・無毒・智慧
+Đừng để nợ biến thành tuyệt vọng; hãy biến nó thành kỷ luật. # 債務・紀律・希望
+Đừng để mất mát biến thành hận; hãy biến nó thành tỉnh thức. # 失落・覺醒・無恨
+Đừng để người hại mình quyết định phẩm chất tâm mình. # 害者・心性・自主
+Tâm còn hướng Phật thì đường chưa đóng. # 向佛・道路・希望
+Nhà có thể từng lung lay, nhưng đạo tâm phải được giữ. # 家宅・道心・堅守
+Đất đời có thể rung, nhưng tâm có thể học bất động. # 地震・不動・修心
+Lửa đời có thể cháy, nhưng trí tuệ là nước mát. # 火難・智慧・清涼
+Nước nợ có thể ngập, nhưng chánh niệm là bờ. # 債水・正念・彼岸
+Độc của lời nói chỉ thắng khi mình uống nó vào tâm. # 毒語・守心・不受
+Không giữ hận là không uống lại độc cũ mỗi ngày. # 無恨・舊毒・清淨
+Chữa lành là lấy lại ánh sáng trên gương mặt. # 治癒・面光・回復
+Chữa lành là nói với gia đình bằng lời lành hơn. # 治癒・家庭・善語
+Chữa lành là ngủ lại được sau những đêm dài. # 治癒・睡眠・安穩
+Chữa lành là ăn một bữa cơm mà lòng bớt run. # 治癒・飯食・安心
+Chữa lành là nhớ chuyện cũ nhưng không còn bị nó kéo đi. # 治癒・記憶・自在
+Kết giới cho tài sản, kết giới cho chữ ký, kết giới cho lòng tốt. # 結界・財產・善心
+Kết giới cho giấc ngủ, kết giới cho gia đình, kết giới cho đạo tâm. # 結界・睡眠・道心
+Phá tà rồi phải lập giới; lập giới rồi tâm mới yên. # 破邪・立界・安心
+Bất động không phải là không đau, mà là đau mà không mất hướng. # 不動・痛苦・方向
+Vô úy không phải là không sợ, mà là sợ nhưng vẫn làm điều đúng. # 無畏・恐懼・正行
+Cát tường không phải là hết nạn, mà là trong nạn vẫn còn duyên lành. # 吉祥・災中・善緣
+Thành tựu không phải là thắng người, mà là không thua bóng tối trong mình. # 成就・黑暗・勝心
+Ta bà ha là lời nhắc: hãy thành tựu bằng trí tuệ, không bằng oán hận. # 娑婆訶・智慧・無恨
+Nam mô Đại Phật Đảnh Thủ Lăng Nghiêm Vương, nguyện tâm này không bị nạn đoạt mất. # 大佛頂・楞嚴王・道心
