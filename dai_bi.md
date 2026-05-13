@@ -10,7 +10,6 @@
 10. Nam Mô Tất Kiết Lật Đỏa Y Mông A Rị Da # 所作已辦聖者
 11. Bà Lô Yết Đế Thất Phật Ra Lăng Đà Bà # 佛頂光
 12. Nam Mô Na Ra Cẩn Trì # 勇猛持
-
 13. %Hê Rị Ma Ha Bàn Đa Sa Mế # 光明大梵
 14. Tát Bà A Tha Đậu Du Bằng # 一切眾生
 15. A Thệ Dựng # 修行
@@ -23,7 +22,6 @@
 22. Di Hê Rị # 威力
 23. Ma Ha Bồ Đề Tát Đỏa # 大菩薩
 24. Tát Bà Tát Bà # 一切一切
-
 25. %Ma Ra Ma Ra # 降魔
 26. Ma Hê Ma Hê Rị Đà Dựng # 大力
 27. Cu Lô Cu Lô Yết Mông # 成辦
@@ -36,7 +34,6 @@
 34. Mạ Mạ Phạt Ma Ra # 降伏
 35. Mục Đế Lệ # 解脫
 36. Y Hê Y Hê # 召請
-
 37. %Thất Na Thất Na # 堅固
 38. A Ra Sâm Phật Ra Xá Lợi # 佛舍利
 39. Phạt Sa Phạt Sâm # 吉祥
@@ -49,7 +46,6 @@
 46. Bồ Đề Dạ Bồ Đề Dạ # 菩提
 47. Bồ Đà Dạ Bồ Đà Dạ # 覺悟
 48. Di Đế Rị Dạ # 慈悲
-
 49. %Na Ra Cẩn Trì # 勇猛
 50. Địa Rị Sắc Ni Na # 堅固
 51. Ba Dạ Ma Na # 威德
@@ -62,7 +58,6 @@
 58. Thất Bàn Ra Dạ # 圓滿
 59. Ta Bà Ha # 成就
 60. Na Ra Cẩn Trì # 勇猛
-
 61. %Ta Bà Ha # 成就
 62. Ma Ra Na Ra # 降魔
 63. Ta Bà Ha # 成就
@@ -75,7 +70,6 @@
 70. Ba Đà Ma Yết Tất Đà Dạ # 蓮華成就
 71. Ta Bà Ha # 成就
 72. Na Ra Cẩn Trì Bàn Dà Ra Dạ # 護持成就
-
 73. %Ta Bà Ha # 成就
 74. Ma Bà Lợi Thắng Yết Ra Dạ # 勝利成就
 75. Ta Bà Ha # 成就
