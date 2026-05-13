@@ -23,7 +23,12 @@ QUOTE=$(grep -ve "^[[:space:]]*$" "$FORTUNE_FILE" | sed -n "${N}p")
 if command -v cowsay >/dev/null 2>&1; then
   echo "$QUOTE" | cowsay
 else
-  echo "=============================="
-  echo "$QUOTE"
-  echo "=============================="
+  echo " ______________________________"
+  echo "< $QUOTE >"
+  echo " ------------------------------"
+  echo "        \\   ^__^"
+  echo "         \\  (oo)\\_______"
+  echo "            (__)\\       )\\/\\"
+  echo "                ||----w |"
+  echo "                ||     ||"
 fi
