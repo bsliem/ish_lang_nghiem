@@ -3,5 +3,11 @@
 .RData
 .Ruserdata
 *.Rproj
-.Rhistory
-.RData
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Word temporary files
+~$*.docx
+~$*.doc
