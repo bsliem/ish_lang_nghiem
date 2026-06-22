@@ -11,3 +11,4 @@
 # Word temporary files
 ~$*.docx
 ~$*.doc
+.positai
