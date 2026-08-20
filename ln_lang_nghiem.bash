@@ -45,23 +45,23 @@ _white=$'\033[37m'
 _yellow=$'\033[33m'
 _gray=$'\033[90m'
 
-# Phiên âm: 12 câu / vòng -> 4 đỏ, 4 xanh, 4 trắng
+# Phiên âm: 12 câu / vòng -> 4 đỏ, 4 xanh, 4 vàng
 _ln_color_main() {
   local n="$1"
   local r=$(( (n - 1) % 12 ))
   if   (( r < 4 )); then echo "$_red"
   elif (( r < 8 )); then echo "$_green"
-  else                  echo "$_white"
+  else                  echo "$_yellow"
   fi
 }
 
-# Hán: 12 câu / vòng -> 4 trắng, 4 đỏ, 4 xám
+# Hán: 12 câu / vòng -> 4 trắng, 4 đỏ, 4 xanh
 _ln_color_han() {
   local n="$1"
   local r=$(( (n - 1) % 12 ))
   if   (( r < 4 )); then echo "$_white"
   elif (( r < 8 )); then echo "$_red"
-  else                  echo "$_gray"
+  else                  echo "$_green"
   fi
 }
 
