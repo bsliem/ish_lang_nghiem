@@ -28,8 +28,10 @@ _LN_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LN_FILE="${LN_FILE:-"$_LN_DIR/lang_nghiem.md"}"
 
 # ---- TTY fallback ----
-_LN_TTY="/dev/tty"
-[[ -r "$_LN_TTY" && -w "$_LN_TTY" ]] || _LN_TTY=""
+_LN_TTY=""
+if [[ -t 0 && -r /dev/tty && -w /dev/tty ]]; then
+  _LN_TTY="/dev/tty"
+fi
 
 # ---- Auto-next seconds (default 3) ----
 LN_TIMEOUT="${LN_TIMEOUT:-3}"
@@ -43,25 +45,23 @@ _white=$'\033[37m'
 _yellow=$'\033[33m'
 _gray=$'\033[90m'
 
-# Phiên âm: 12 câu / vòng -> 3 đỏ, 3 xanh, 3 trắng, 3 vàng
+# Phiên âm: 12 câu / vòng -> 4 đỏ, 4 xanh, 4 trắng
 _ln_color_main() {
   local n="$1"
   local r=$(( (n - 1) % 12 ))
-  if   (( r < 3 )); then echo "$_red"
-  elif (( r < 6 )); then echo "$_green"
-  elif (( r < 9 )); then echo "$_white"
-  else                  echo "$_yellow"
+  if   (( r < 4 )); then echo "$_red"
+  elif (( r < 8 )); then echo "$_green"
+  else                  echo "$_white"
   fi
 }
 
-# Hán: 12 câu / vòng -> 3 trắng, 3 vàng, 3 đỏ, 3 xanh
+# Hán: 12 câu / vòng -> 4 trắng, 4 đỏ, 4 xám
 _ln_color_han() {
   local n="$1"
   local r=$(( (n - 1) % 12 ))
-  if   (( r < 3 )); then echo "$_white"
-  elif (( r < 6 )); then echo "$_yellow"
-  elif (( r < 9 )); then echo "$_red"
-  else                  echo "$_green"
+  if   (( r < 4 )); then echo "$_white"
+  elif (( r < 8 )); then echo "$_red"
+  else                  echo "$_gray"
   fi
 }
 
@@ -131,7 +131,7 @@ ln() {
   [[ -f "$LN_FILE" ]] || { echo "❌ Không thấy file: $LN_FILE"; return 1; }
 
   # đảm bảo stty luôn được bật lại
-  trap 'stty echo < /dev/tty 2>/dev/null || true' EXIT
+  trap 'if [[ -t 0 ]]; then stty echo 2>/dev/null || true; fi' EXIT
 
   # ---- Range block: ln K*:M* ----
   if [[ "${1:-}" =~ ^([0-9]+)\*:([0-9]+)\*$ ]]; then
