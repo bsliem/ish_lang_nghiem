@@ -12,3 +12,4 @@
 ~$*.docx
 ~$*.doc
 .positai
+.DS_Store
