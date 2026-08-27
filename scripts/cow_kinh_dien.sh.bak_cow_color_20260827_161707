@@ -1,24 +1,5 @@
 #!/usr/bin/env bash
 
-# >>> RANDOM COW COLOR >>>
-_cow_reset=$'\033[0m'
-_cow_colors=(
-  $'\033[91m'
-  $'\033[92m'
-  $'\033[93m'
-  $'\033[94m'
-  $'\033[95m'
-  $'\033[96m'
-)
-
-_cow_random_color() {
-  local n=${#_cow_colors[@]}
-  local idx=$(( RANDOM % n ))
-  printf '%s' "${_cow_colors[$idx]}"
-}
-# <<< RANDOM COW COLOR <<<
-
-
 # =====================================================
 # cow_kinh_dien.sh
 # Bò đọc danh ngôn kinh điển
@@ -59,13 +40,8 @@ fi
 echo " ______________________________"
 echo "< $QUOTE >"
 echo " ------------------------------"
-cow_color="$(_cow_random_color)"
-printf "%s" "$cow_color"
 echo "        \\   ^__^"
 echo "         \\  (oo)\\_______"
 echo "            (__)\\       )\\/\\"
 echo "                ||----w |"
-echo "                ||     ||"
-printf "%s" "$_cow_reset"
-NA
 echo "                ||     ||"
