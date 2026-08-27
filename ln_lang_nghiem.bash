@@ -215,7 +215,7 @@ ln() {
   (( ${#ranges[@]} == 0 )) && { echo "❌ Không có đoạn hợp lệ để tụng."; return 1; }
 
   # ---- Header ----
-  clear
+  # clear  # disabled: keep terminal history
   echo "📿 TỤNG KINH / CHÚ LĂNG NGHIÊM"
   echo "File: $LN_FILE"
   if (( ${#ranges[@]} == 1 )); then
