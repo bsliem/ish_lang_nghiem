@@ -327,6 +327,69 @@ lnk() {
   ln "$start" $(( ((start - 1) / 12 + 1) * 12 ))
 }
 
+
+# >>> lnN 4-line shortcuts >>>
+# ==========================================
+# lnN: shortcut tụng 4 câu liên tiếp
+#
+# Ví dụ:
+#   ln4    -> câu 4 → 7
+#   ln9    -> câu 9 → 12
+#   ln100  -> câu 100 → 103
+#
+# Lệnh cũ KHÔNG đổi:
+#   ln 4   -> câu 4 → 12
+#
+# Cài shortcut:
+#   bash ln_lang_nghiem.bash install-ln4
+# ==========================================
+
+_ln_four() {
+  local start="${1:-}"
+
+  [[ "$start" =~ ^[0-9]+$ ]] || {
+    echo "❌ Cần số câu bắt đầu."
+    echo "Ví dụ: ln4 | ln9 | ln100"
+    return 1
+  }
+
+  local end=$(( start + 3 ))
+  ln "$start" "$end"
+}
+
+
+_ln_install_shortcuts() {
+  local bin_dir="$HOME/.local/bin"
+  local script_path="$_LN_DIR/ln_lang_nghiem.bash"
+  local n target
+
+  mkdir -p "$bin_dir"
+
+  for (( n=1; n<=554; n++ )); do
+    target="$bin_dir/ln$n"
+
+    cat > "$target" <<EOF
+#!/usr/bin/env bash
+exec bash "$script_path" four "$n"
+EOF
+
+    chmod +x "$target"
+  done
+
+  echo
+  echo "✅ Đã tạo ln1 ... ln554"
+  echo "📁 $bin_dir"
+  echo
+  echo "Ví dụ:"
+  echo "  ln4    -> 4 → 7"
+  echo "  ln9    -> 9 → 12"
+  echo "  ln100  -> 100 → 103"
+  echo
+  echo 'PATH cần có: export PATH="$HOME/.local/bin:$PATH"'
+}
+
+# <<< lnN 4-line shortcuts <<<
+
 # ==========================================
 # Dispatcher
 # Cho phép chạy trực tiếp:
@@ -336,10 +399,25 @@ lnk() {
 # ==========================================
 if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
   case "${1:-}" in
+
+    # cài ln1 ... ln554
+    install-ln4|install-shortcuts)
+      _ln_install_shortcuts
+      ;;
+
+    # lnN -> tụng 4 câu
+    four)
+      shift
+      _ln_four "$@"
+      ;;
+
+    # tìm keyword
     k|lnk|search)
       shift
       lnk "$@"
       ;;
+
+    # toàn bộ cú pháp ln cũ giữ nguyên
     *)
       ln "$@"
       ;;
