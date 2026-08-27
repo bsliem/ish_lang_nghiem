@@ -214,37 +214,29 @@ ln() {
   ranges=( "${fixed_ranges[@]}" )
   (( ${#ranges[@]} == 0 )) && { echo "❌ Không có đoạn hợp lệ để tụng."; return 1; }
 
-  # ---- Header compact ----
+  # ---- Header ----
+  # clear  # disabled: keep terminal history
+  echo "📿 TỤNG KINH / CHÚ LĂNG NGHIÊM"
+  echo "File: $LN_FILE"
   if (( ${#ranges[@]} == 1 )); then
     local rs="${ranges[0]%%:*}"
     local re="${ranges[0]##*:}"
+    echo "Từ câu: $rs → $re"
+
     local b_start=$(( (rs - 1) / 12 ))
     local b_end=$(( (re - 1) / 12 ))
     if (( b_start == b_end )); then
-      echo "${rs}→${re} | B${b_start}"
+      echo "Block: ${b_start}*12"
     else
-      echo "${rs}→${re} | B${b_start}→B${b_end}"
+      echo "Block: ${b_start}*12 → ${b_end}*12"
     fi
   else
-    local summary=""
-    local block_summary=""
-    local r rs re bs be
+    echo "Đoạn tụng:"
     for r in "${ranges[@]}"; do
-      rs="${r%%:*}"
-      re="${r##*:}"
-      bs=$(( (rs - 1) / 12 ))
-      be=$(( (re - 1) / 12 ))
-      [[ -n "$summary" ]] && summary="${summary}, "
-      summary="${summary}${rs}→${re}"
-      [[ -n "$block_summary" ]] && block_summary="${block_summary}, "
-      if (( bs == be )); then
-        block_summary="${block_summary}B${bs}"
-      else
-        block_summary="${block_summary}B${bs}→B${be}"
-      fi
+      echo "  - ${r%%:*} → ${r##*:}"
     done
-    echo "${summary} | ${block_summary}"
   fi
+  echo "⏳ Tự động sau ${LN_TIMEOUT}s | Phím bất kỳ: câu kế | q/ESC: thoát"
   echo "----------------------------------------"
 
   local i raw main han key c_main c_han stop=0

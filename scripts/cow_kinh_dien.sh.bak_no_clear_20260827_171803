@@ -1,0 +1,76 @@
+#!/usr/bin/env bash
+
+# >>> COLOR FOR c >>>
+_C_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$_C_DIR/colorize_c.bash"
+# <<< COLOR FOR c <<<
+
+
+# >>> RANDOM COW COLOR >>>
+_cow_reset=$'\033[0m'
+_cow_colors=(
+  $'\033[91m'
+  $'\033[92m'
+  $'\033[93m'
+  $'\033[94m'
+  $'\033[95m'
+  $'\033[96m'
+)
+
+_cow_random_color() {
+  local n=${#_cow_colors[@]}
+  local idx=$(( RANDOM % n ))
+  printf '%s' "${_cow_colors[$idx]}"
+}
+# <<< RANDOM COW COLOR <<<
+
+
+# =====================================================
+# cow_kinh_dien.sh
+# Bò đọc danh ngôn kinh điển
+# Không phụ thuộc cowsay bên ngoài
+# Dùng được trên Mac / Windows Git Bash / iSH
+# =====================================================
+
+# Nhận diện repo
+if [ -d "$HOME/Documents/ish_lang_nghiem" ]; then
+  REPO_DIR="$HOME/Documents/ish_lang_nghiem"
+elif [ -d "$HOME/ish_lang_nghiem" ]; then
+  REPO_DIR="$HOME/ish_lang_nghiem"
+elif [ -d "/d/ish_lang_nghiem" ]; then
+  REPO_DIR="/d/ish_lang_nghiem"
+else
+  REPO_DIR="$(pwd)"
+fi
+
+FORTUNE_FILE="$REPO_DIR/data/fortune_kinh_dien.txt"
+
+if [ ! -f "$FORTUNE_FILE" ]; then
+  echo "Không tìm thấy file fortune:"
+  echo "$FORTUNE_FILE"
+  exit 1
+fi
+
+# Lấy ngẫu nhiên 1 dòng không rỗng
+QUOTE="$(
+  awk 'NF { lines[++n]=$0 } END { if (n>0) { srand(); print lines[int(rand()*n)+1] } }' "$FORTUNE_FILE"
+)"
+
+if [ -z "$QUOTE" ]; then
+  echo "File fortune đang rỗng."
+  exit 1
+fi
+
+# Bò ASCII tự chế, không dùng cowsay ngoài
+echo " ______________________________"
+_color_mantra_line "< $QUOTE >"
+echo " ------------------------------"
+cow_color="$(_cow_random_color)"
+printf "%s" "$cow_color"
+echo "        \\   ^__^"
+echo "         \\  (oo)\\_______"
+echo "            (__)\\       )\\/\\"
+echo "                ||----w |"
+echo "                ||     ||"
+printf "%s" "$_cow_reset"
+echo "                ||     ||"
