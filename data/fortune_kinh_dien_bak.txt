@@ -1,556 +1,554 @@
-t# i Chú Lăng Nghiêm — Danh ngôn truyền cảm hứng toàn bộ
-
-01. 🙏 @ Nam-mô tát đát tha # 如來 — Trở về với Như Lai là trở về với phần sáng nhất trong mình.
-02. Tô già đa da # 善逝 — Đi lành là đi qua đời mà không đánh mất tâm thiện.
-03. A ra ha đế # 應供 — Tâm đáng kính là tâm đã thắng được tham sân si.
-04. Tam-miệu tam bồ đà tỏa # 正等覺 — Chánh giác là thấy đúng sự thật mà vẫn giữ lòng từ.
-05. Tát đát tha # 如是 — Như thị là chấp nhận sự thật mà không gục ngã.
-06. Phật đà cu tri sắc ni sam # 佛頂 — Phật Đảnh là nơi trí tuệ đứng cao hơn mọi sợ hãi.
-07. Nam-mô tát bà # 一切 — Quy y tất cả thiện pháp là mở cửa cho ánh sáng đi vào.
-08. Bột đà bột địa # 菩提 — Bồ-đề bắt đầu khi ta chịu tỉnh thức giữa khổ đau.
-09. Tát đa bệ tệ # 覺有情 — Một chúng sinh biết quay đầu là một ngọn đèn được thắp lại.
-10. Nam-mô tát đa nẩm # 眾生 — Thương chúng sinh là học thương cả phần yếu đuối trong mình.
-11. Tam-miệu tam bồ đà # 正覺 — Chánh giác là thấy khổ mà không để khổ nuốt mất tâm.
-12. Cu tri nẩm # 無量 — Tâm vô lượng thì biến cố lớn cũng không che kín bầu trời.
-13. 🙏 Ta xá ra bà ca # 聲聞 — Biết lắng nghe chánh pháp là bắt đầu nghe lại tâm mình.
-14. Tăng già nẩm # 僧眾 — Tăng chúng nhắc ta rằng không ai phải qua bão một mình.
-15. Nam-mô lô kê A-La-Hán đa nẩm. # 世間阿羅漢 — Giữa bụi đời vẫn có người sống trong sạch như sen.
-16. Nam-mô tô lô đa ba na nẩm. # 預流果 — Bước vào dòng thánh là không trôi về bóng tối.
-17. Nam-mô ta yết rị đà dà di nẩm. # 一來果 — Mỗi lần trở lại là một lần sáng hơn hôm qua.
-18. Nam-mô lô kê tam-miệu dà đa nẩm. # 四果聖者 — Thánh giả không thắng đời bằng hơn thua mà bằng giải thoát.
-19. Tam-miệu dà ba ra # 正行 — Chánh hành là làm điều đúng cả khi lòng còn đau.
-20. Ðể ba đa na nẩm. # 真實住 — An trú chân thật là đứng vững trong sự thật.
-21. Nam-mô đề bà ly sắc nỏa. # 超色界 — Vượt sắc giới là không để hình tướng giam tâm.
-22. Nam-mô tất đà da # 成就 — Thành tựu lớn nhất là còn biết thương sau biến cố.
-23. Tỳ địa da # 智慧 — Trí tuệ là đèn soi đêm tối mà không nguyền rủa bóng đêm.
-24. Ðà ra ly sắc nỏa. # 不染 — Không nhiễm là đi qua bùn mà vẫn giữ hoa sen.
-25. 🙏 Xá ba noa # 以音攝心 — Một âm lành có thể kéo tâm loạn trở về.
-26. Yết ra ha # 攝持 — Nhiếp trì là giữ tâm trước khi tâm chạy theo sợ hãi.
-27. Ta ha ta ra ma tha nẩm # 降伏 — Hàng phục lớn nhất là hàng phục cơn bão trong mình.
-28. Nam-mô bạt ra ha ma ni # 梵天 — Cao quý thật là tâm biết sống trong sạch.
-29. Nam-mô nhơn dà ra da # 帝釋 — Quyền lực đẹp nhất là quyền lực bảo hộ điều thiện.
-30. Nam-mô bà dà bà đế # 世尊 — Kính lễ Thế Tôn là nhớ mình còn đường quay về.
-31. Lô đà ra da. # 大自在 — Đại tự tại là không để sợ hãi làm chủ tâm.
-32. Ô ma bát đế # 柔伏 — Mềm mại cũng là sức mạnh vì nước mềm thắng đá cứng.
-33. Ta hê dạ da. # 正行 — Chánh hạnh là từng việc nhỏ đều làm bằng tâm ngay.
-34. Nam-mô bà dà bà đế # 世尊 — Mỗi lần cúi đầu là một lần bớt kiêu mạn.
-35. Na ra dả # 最尊 — Cao quý nhất là phần không chịu khuất trước bóng tối.
-36. Noa da # 引導 — Được dẫn đường là phước, biết đi theo là tuệ.
-37. 🙏 Bàn dá ma ha tam mộ đà da # 大三昧 — Đại tam-muội là giữa sóng lớn tâm vẫn không chìm.
-38. Nam-mô tất yết rị đa da # 成就者 — Người thành tựu biết biến khổ thành đạo lực.
-39. Nam-mô bà dà bà đế # 世尊 — Thế Tôn dạy ta không để khổ lấy mất tâm.
-40. Ma ha ca ra da # 大威力 — Đại uy lực là sống không còn bị sợ hãi sai khiến.
-41. Ðịa rị bác lặc na # 堅固 — Kiên cố là ngã rồi vẫn đứng dậy bằng lòng lành.
-42. Dà ra tỳ đà ra # 破障 — Phá chướng là phá cái làm mình quên ánh sáng.
-43. Ba noa ca ra da. # 護持 — Được hộ trì là khi tâm biết quay về điều thiện.
-44. A địa mục đế # 殊勝解 — Thắng giải là hiểu sâu rằng khổ cũng có thể thành đạo.
-45. Thi ma xá na nê # 捨生死 — Xả sinh tử là không để được mất làm chủ đời mình.
-46. Bà tất nê # 清淨 — Thanh tịnh là đau rồi mà không hóa thành độc.
-47. Ma đát rị dà noa # 法母 — Pháp mẫu là lòng từ sinh ra trí tuệ.
-48. Nam-mô tất yết rị đa da # 成就者 — Người thành tựu biết cảm ơn cả ngày khó nhất.
-49. 🙏 Nam-mô bà dà bà đế # 世尊 — Kính lễ Thế Tôn để lòng không bị đời làm hẹp.
-50. Ða tha dà đa câu ra da # 如來族 — Dòng Như Lai là dòng tỉnh thức, không phải dòng hơn thua.
-51. Nam-mô bát đầu ma câu ra da. # 蓮華族 — Dòng hoa sen dạy ta nở trong bùn mà không trách bùn.
-52. Nam-mô bạc xà ra câu ra da. # 金剛族 — Dòng Kim Cang dạy ta mềm lòng nhưng không yếu đuối.
-53. Nam-mô ma ni câu ra da # 摩尼族 — Dòng Ma-ni dạy ta giữ viên ngọc sáng giữa bụi đời.
-54. Nam-mô dà xà câu ra da # 象族 — Dòng tượng vương dạy ta bước chậm mà vững.
-55. Nam-mô bà dà bà đế # 世尊 — Trở về Thế Tôn là nhớ đời còn có đường lành.
-56. Ðế rị trà # 持 — Giữ được một niệm thiện là giữ được hướng đi.
-57. Du ra tây na. # 勇猛 — Dũng mãnh là sợ mà vẫn đi theo điều đúng.
-58. Ba ra ha ra noa ra xà da # 大自在王 — Tự tại vương là không để ngoại cảnh làm vua trong tâm.
-59. Ða tha dà đa da # 如來 — Như Lai là sự thật đến như vậy, không thêm không bớt.
-60. Nam-mô bà dà bà đế # 世尊 — Khi lòng rối hãy cúi đầu, khi tâm sáng hãy đi tiếp.
-61. 🙏 Nam-mô A di đa bà da # 阿彌陀佛 — Niệm A Di Đà là thắp sáng đêm dài sinh tử.
-62. Ða tha dà đa da # 如來 — Như Lai nhắc ta rằng sự thật không cần ồn ào.
-63. A ra ha đế. # 阿羅漢 — A-la-hán là người đã đặt gánh nặng xuống.
-64. Tam-miệu tam bồ đà da # 正覺 — Chánh giác là không bị sân hận dẫn đường.
-65. Nam-mô bà dà bà đế # 世尊 — Nương tựa Thế Tôn là thôi nương vào sợ hãi.
-66. A sô bệ da # 阿閦佛 — Bất Động Phật dạy tâm không động thì cảnh không làm chủ.
-67. Ða tha dà đa da # 如來 — Như Lai đến từ chân thật và trở về chân thật.
-68. A ra ha đế # 阿羅漢 — Bậc giải thoát không tranh đời vì đã thắng tâm mình.
-69. Tam-miệu tam bồ đà da # 正覺 — Chánh giác là ánh sáng không tắt khi đời tối lại.
-70. Nam-mô bà dà bà đế # 世尊 — Mỗi tiếng Nam-mô là một lần đặt khổ xuống.
-71. Bệ xa xà da # 藥師佛 — Dược Sư nhắc vết thương cần ánh sáng hơn oán trách.
-72. Câu lô phệ trụ rị da # 琉璃光 — Lưu ly quang là tâm trong sau khi qua nước mắt.
-73. 🙏 Bác ra bà ra xà da # 大威德 — Đại uy đức là làm người khác an chứ không làm họ sợ.
-74. Ða tha dà đa da. # 如來 — Như Lai là con đường trở về với cái thật.
-75. Nam-mô bà dà bà đế # 世尊 — Kính lễ Thế Tôn để đứng dậy không cay đắng.
-76. Tam bổ sư bí đa # 三導師力 — Ba lực dẫn đường là tín nguyện hạnh giữ ta khỏi lạc.
-77. Tát lân nại ra lặc xà da # 忍德攝伏 — Nhẫn đức là sức mạnh biết chờ quả lành chín.
-78. Ða tha dà đa da # 如來 — Như Lai không xa người khổ vì pháp cần nơi ấy.
-79. A ra ha đế # 阿羅漢 — A-la-hán là đời sống sạch gốc phiền não.
-80. Tam-miệu tam bồ đà da # 正覺 — Chánh giác là nhìn rõ khổ mà không bị khổ nhuộm đen.
-81. Nam-mô bà dà bà đế # 世尊 — Kính lễ Thế Tôn để nhớ mình còn nơi quay về.
-82. Xá kê dã mẫu na duệ # 釋迦佛 — Thích Ca dạy con người có thể tỉnh thức ngay giữa đời.
-83. Ða tha dà đa da # 如來 — Như Lai là trí tuệ đi vào cõi mê.
-84. A ra ha đế # 阿羅漢 — Người buông được mới thật sự giàu có.
-85. 🙏 Tam-miệu tam bồ đà da # 正覺 — Chánh giác là trái tim không bị hận thù dẫn đường.
-86. Nam-mô bà dà bà đế # 世尊 — Thế Tôn là nơi tâm khổ tìm lại sáng suốt.
-87. Lặc đát na kê đô ra xà da # 寶王 — Bảo vương là viên ngọc tâm không bị đời làm vỡ.
-88. Ða tha dà đa da # 如來 — Như Lai là sự thật hiền lành mà mạnh mẽ.
-89. A ra ha đế # 阿羅漢 — A-la-hán là người thôi làm nô lệ phiền não.
-90. Tam-miệu tam bồ đà da # 正覺 — Chánh giác là biết đường về ngay khi đang lạc.
-91. Ðế biều # 帝瓢 — Mọi phẩm vị cao quý đều quy về một tâm sáng.
-92. Nam-mô tát yết rị đa # 成就 — Thành tựu là không thua bóng tối trong mình.
-93. Ế đàm bà dà bà đa # 此世尊 — Đây là Thế Tôn, hình ảnh tỉnh thức giữa bất an.
-94. Tát đác tha dà đô sắc ni sam # 佛頂 — Phật Đảnh là đỉnh tâm không cúi trước vô minh.
-95. Tát đác đa bát đác lam # 白傘蓋 — Lọng trắng che tâm giữa bão đời.
-96. Nam-mô a bà ra thị đam # 歸命 — Quy mạng là trao đời về phía ánh sáng.
-97. 🙏 Bác ra đế # 世尊 — Kính lễ Thế Tôn để sống rộng hơn nỗi đau.
-98. Dương kỳ ra # 放光 — Một niệm lành có thể phóng quang vào nơi tối nhất.
-99. Tát ra bà # 一切 — Tất cả đều có thể thành bài học tỉnh thức.
-100. Bộ đa yết ra ha # 降伏 — Hàng phục nhiễu loạn trước hết là hàng phục hoảng sợ.
-101. Ni yết ra ha # 不亂 — Không loạn là phước lớn giữa đời biến động.
-102. Yết ca ra ha ni # 攝持 — Nhiếp trì là giữ mình trước khi bị đời kéo mất.
-103. Bạt ra bí địa da # 破無明 — Phá vô minh là không tin tiếng nói của sợ hãi.
-104. Sất đà nể # 圓滿 — Viên mãn là không đòi đời hoàn hảo mới bình an.
-105. A ca ra # 不動 — Bất động là gốc rễ của người nương pháp.
-106. Mật rị trụ # 無畏 — Vô úy là có niềm tin lớn hơn nguy hiểm.
-107. Bát rị đác ra da # 吉祥 — Cát tường đến khi tâm chịu đi đường lành.
-108. Nảnh yết rị # 堅固 — Kiên cố là mỗi ngày vẫn làm điều thiện.
-109. 🙏 Tát ra bà # 一切 — Tất cả rồi sẽ qua, chỉ tâm lành còn theo mình.
-110. Bàn đà na # 繫縛 — Thấy xiềng xích là bắt đầu tháo nó ra.
-111. Mục xoa ni # 解脫 — Giải thoát là không còn bị chuyện cũ giam giữ.
-112. Tát ra bà # 一切 — Tất cả khổ nạn nhỏ lại khi tâm biết quay về.
-113. Ðột sắc tra # 摧破 — Hãy phá điều xấu trước khi điều xấu phá bình an.
-114. Ðột tất phạp # 速成 — Thành tựu nhanh đến khi ta thật lòng quay đầu.
-115. Bát na nể # 守護 — Hộ trì là sự có mặt thầm lặng của điều thiện.
-116. Phạt ra ni # 清淨 — Thanh tịnh là hơi thở nhẹ sau một lần buông.
-117. Giả đô ra # 堅固 — Tâm kiên cố là tâm không bị kéo vào ác.
-118. Thất đế nẩm # 真諦 — Chân đế là sự thật giúp ta bớt khổ.
-119. Yết ra ha # 攝護 — Được nhiếp hộ là được giữ trong chánh niệm.
-120. Ta ha tát ra nhã xà # 千眼王 — Ngàn mắt là trí tuệ biết nhìn nhiều phía.
-121. 🙏 Tỳ đa băng ta na yết rị # 降伏 — Hàng phục lớn nhất là hàng phục ý muốn bỏ cuộc.
-122. A sắc tra băng xá đế nẩm # 八部 — Tám bộ nhắc người giữ pháp không đơn độc.
-123. Na xoa sát đác ra nhã xà # 夜叉王 — Lực dữ có mạnh cũng dừng trước tâm chánh.
-124. Ba ra tát đà na yết rị # 守護 — Hộ trì đến với người biết giữ giới và giữ lòng.
-125. A sắc tra nẩm # 八眾 — Nhiều duyên lành cùng nâng đỡ người tu.
-126. Ma ha yết ra ha nhã xà # 大鬼王 — Bóng tối lớn cũng phải lùi trước ánh sáng lớn.
-127. Tỳ đa băng tát na yết rị # 攝伏 — Nhiếp phục là làm dịu loạn bằng định tâm.
-128. Tát bà xá đô lô # 普攝 — Tâm rộng có thể nhiếp phục cả điều từng làm mình sợ.
-129. Nể bà ra nhã xà # 守護王 — Người được hộ trì cũng học cách hộ trì người khác.
-130. Hô lam đột tất phạp # 摧破 — Hãy phá nhanh ý nghĩ kéo mình xuống vực.
-131. Nan giá na xá ni # 障礙 — Chướng ngại không chặn được người biết học từ nó.
-132. Bí sa xá # 鬼神 — Bóng tối ngoài đời thường đánh thức bóng tối trong tâm.
-133. 🙏 Tất đác ra # 真實 — Chân thật là nơi ta không cần giả vờ mạnh mẽ.
-134. A kiết ni # 火 — Lửa có thể đốt cháy nhưng cũng luyện vàng.
-135. Ô đà ca ra nhã xà # 水王 — Nước dạy ta mềm sâu và luôn tìm được đường.
-136. A bát ra thị đa câu ra # 不動 — Không động là đứng vững mà không cần ồn ào.
-137. Ma ha bác ra chiến trì # 大力 — Đại lực là tiếp tục tử tế sau khi bị đau.
-138. Ma ha điệp đa # 大光 — Đại quang soi cả lỗi lầm để ta sửa mình.
-139. Ma ha đế xà # 大威 — Đại uy là tâm nghiêm trang không dễ bị lừa.
-140. Ma ha thuế đa xà bà ra # 大白 — Đại bạch là trong sạch đến mức tối không bám được.
-141. Ma ha bạt ra bàn đà ra # 大護 — Đại hộ là che chở của phước đức đã gieo.
-142. Bà tất nể # 清淨 — Thanh tịnh là rửa tâm bằng hiểu biết.
-143. A rị da đa ra # 聖者 — Bậc Thánh bắt đầu từ người biết quay đầu.
-144. Tỳ rị câu tri # 智慧 — Trí tuệ là biết điều nên giữ và điều phải buông.
-145. 🙏 Thệ bà tỳ xà da # 勝利 — Chiến thắng thật là không còn muốn làm tổn thương ai.
-146. Bạt xà ra ma lễ để # 金剛 — Kim Cang là lòng từ không bị nghịch cảnh đập vỡ.
-147. Tỳ xá lô đa # 廣大 — Rộng lớn là không lấy một biến cố định nghĩa cả đời.
-148. Bột đằng dõng ca # 勇猛 — Dũng mãnh là bước tiếp khi lòng vẫn còn run.
-149. Bạt xà ra chế hắt na a giá # 金剛王 — Kim Cang vương là tâm không khuất phục vô minh.
-150. Ma ra chế bà # 破魔 — Phá ma là phá tiếng nói muốn mình buông xuôi.
-151. Bát ra chất đa # 勇士 — Dũng sĩ thật là người giữ được lòng lành.
-152. Bạt xà ra thiện trì # 金剛護 — Kim Cang hộ trì là sức bền của chánh niệm.
-153. Tỳ xá ra giá # 威德 — Uy đức là làm sáng lòng người mà không cần áp đảo.
-154. Phiến đa xá # 遍照 — Ánh sáng rộng thì không bỏ sót góc tối nào.
-155. Bệ để bà # 光明 — Quang minh là điều còn lại khi sợ hãi tan đi.
-156. Bổ thị đa # 成就 — Thành tựu là từng ngày bớt bị vô minh sai khiến.
-157. 🙏 Tô ma lô ba # 清涼 — Thanh lương là ngọn gió mát sau cơn lửa sân.
-158. Ma ha thuế đa # 大白 — Đại bạch là tâm trong không giấu điều xấu.
-159. A rị da đa ra # 聖者 — Thánh giả là người biết sống xứng với ánh sáng.
-160. Ma ha bà ra a bác ra # 大力 — Đại lực là sức mạnh không cần làm ai tổn thương.
-161. Bạt xà ra thương yết ra chế bà # 金剛鎧 — Áo giáp Kim Cang là tâm không để độc vào.
-162. Bạt xà ra câu ma rị # 金剛女 — Kim Cang nữ là dịu dàng mà không thể bị bẻ gãy.
-163. Câu lam đà rị # 持地 — Giữ đất là giữ nền cho mọi điều lành mọc lên.
-164. Bạt xà ra hắt tát đa giá # 金剛手 — Kim Cang thủ là bàn tay hành động vì chánh pháp.
-165. Tỳ địa da # 智慧 — Trí tuệ là thấy rõ rồi vẫn chọn từ bi.
-166. Kiền dá na # 香 — Hương lành của tâm thiện lan xa không cần nói lớn.
-167. Ma rị ca # 花 — Hoa tâm nở khi ta thôi nuôi oán.
-168. Khuất tô mẫu # 乳 — Sữa pháp nuôi lớn phần mềm lành trong người.
-169. 🙏 Bà yết ra đá na # 守護 — Hộ trì là giữ tâm không rơi khỏi đường sáng.
-170. Bệ lô giá na # 毘盧佛 — Tỳ Lô là ánh sáng khắp nơi không bỏ ai lại.
-171. Câu rị da # 行 — Hành trì là biến hiểu biết thành bước chân.
-172. Dạ ra thố # 夜行 — Đi trong đêm cần giữ ngọn đèn trong tâm.
-173. Sắc ni sam # 頂相 — Đỉnh tướng nhắc ta sống hướng thượng.
-174. Tỳ chiếc lam bà ma ni giá. # 如意寶 — Như ý bảo là tâm biết đủ và biết sáng.
-175. Bạt xà ra ca na ca ba ra bà. # 金剛寶 — Kim Cang bảo là viên ngọc không sợ va đập.
-176. Lồ xà na # 盧舍那 — Lô Xá Na là ánh sáng nhìn thấu mọi che đậy.
-177. Bạt xà ra đốn trỉ giá # 金剛幢 — Tràng Kim Cang là ngọn cờ không ngã trong gió nghiệp.
-178. Thuế đa giá # 白色 — Sắc trắng nhắc lòng trở về trong sạch.
-179. Ca ma ra # 行 — Tu là hành động, không chỉ là lời đẹp.
-180. Sát sa thi # 剎那 — Một sát-na tỉnh thức có thể đổi hướng cả ngày.
-181. 🙏 Ba ra bà. # 圓滿 — Viên mãn là trọn vẹn với điều thiện đang có.
-182. Ế đế di đế # 真實 — Chân thật là nền đất không sụp dưới chân.
-183. Mẫu đà ra # 印 — Ấn tâm là dấu niêm của niềm tin.
-184. Yết noa. # 結 — Kết lại là giữ cho tâm không tản mạn.
-185. Ta bệ ra sám # 懺悔 — Sám hối là mở cửa cho đời sống mới.
-186. Quật phạm đô # 除障 — Trừ chướng là dọn đường cho tâm đi về sáng.
-187. Ấn thố na mạ mạ tỏa. # 成就 — Thành tựu là khi thân tâm cùng trở về điều lành.
-188. @@ Ô hồng # 唵 — Một tiếng Án mở đầu cho sự tỉnh thức mạnh mẽ.
-189. Rị sắc yết noa # 降伏 — Hàng phục là không để loạn động ngồi lên tâm.
-190. Bác lặc xá tất đa # 破障 — Phá chướng là mở lối cho ánh sáng đi qua.
-191. Tát đác tha # 真實 — Chân thật là nơi tâm hết phải trốn.
-192. Già đô sắc ni sam # 佛頂 — Phật Đảnh nhắc ta ngẩng đầu về trí tuệ.
-193. 🙏 Hổ hồng đô lô ung # 威攝 — Uy nhiếp là sức mạnh làm loạn tâm lắng xuống.
-194. Chiêm bà na # 制伏 — Chế phục là giữ mình trước cơn bốc đồng.
-195. Hổ hồng đô lô ung # 威攝 — Tâm có uy lực thì sợ hãi tự lùi.
-196. Tất đam bà na # 安定 — An định là món quà lớn sau nhiều biến động.
-197. Hổ hồng đô lô ung # 威攝 — Một tâm vững có thể nhiếp phục ngàn niệm loạn.
-198. Ba ra sắc địa da # 成就 — Thành tựu là tâm được đặt lại đúng chỗ.
-199. Tam bác xoa # 三界 — Ba cõi rộng nhưng không rộng hơn một niệm giác.
-200. Noa yết ra # 城護 — Hộ thành là giữ cổng tâm khỏi điều bất thiện.
-201. Hổ hồng đô lô ung # 威攝 — Uy lực chánh niệm đưa tâm trở về.
-202. Tát bà dược xoa # 一切藥叉 — Mọi lực dữ đều nhỏ trước tâm có pháp.
-203. Hắt ra sát ta # 夜叉 — Hung hãn bên ngoài không thắng được định lực bên trong.
-204. Yết ra ha nhã xà # 鬼王 — Quỷ vương cũng phải dừng trước ánh sáng Phật Đảnh.
-205. 🙏 Tỳ đằng băng tát na yết ra # 摧破 — Hãy tồi phá những gì kéo mình rời đạo.
-206. Hổ hồng đô lô ung # 威攝 — Uy nhiếp không để tâm bị dắt đi.
-207. Giả đô ra # 堅固 — Kiên cố là không bỏ pháp trong ngày khó.
-208. Thi để nẩm # 真諦 — Chân đế là sự thật cứu tâm khỏi mê.
-209. Yết ra ha # 攝持 — Nhiếp trì là nắm lại đời mình bằng chánh niệm.
-210. Ta ha tát ra nẩm # 千數 — Ngàn lần hộ trì bắt đầu từ một lần quay về.
-211. Tỳ đằng băng tát na ra # 摧伏 — Tồi phục là làm yếu đi gốc sợ hãi.
-212. Hổ hồng đô lô ung # 威攝 — Khi tâm có uy, phiền não không còn ồn.
-213. Ra xoa # 羅剎 — La-sát trong tâm là cơn dữ cần được chuyển hóa.
-214. Bà già phạm # 世尊 — Thế Tôn là nơi ta đặt xuống gánh nặng.
-215. Tát đác tha # 真實 — Chân thật khiến ảo tưởng không còn chỗ trốn.
-216. Già đô sắc ni sam # 佛頂 — Phật Đảnh che chở tâm người biết quy về.
-217. 🙏 Ba ra điểm # 光明 — Quang minh sinh ra khi ta không giấu mình trong tối.
-218. Xà kiết rị # 勇猛 — Dũng mãnh là dám sửa mình ngay hôm nay.
-219. Ma ha ta ha tát ra # 大威力 — Đại uy lực là sức thiện không bị dập tắt.
-220. Bột thọ ta ha tát ra # 大菩薩 — Bồ Tát lớn là người ôm khổ mà không rời thương.
-221. Thất rị sa # 吉祥 — Cát tường là tâm không quên ơn giữa gian nan.
-222. Câu tri ta ha tát nê # 無量 — Vô lượng là lòng lành không đo bằng hoàn cảnh.
-223. Đế lệ a tệ đề thị bà rị đa # 護持 — Hộ trì là giữ pháp ngay trong đời thường.
-224. Tra tra anh ca # 震動 — Chấn động cũng có thể đánh thức tâm mê.
-225. Ma ha bạt xà lô đà ra # 大金剛 — Đại Kim Cang là sức bền của người không bỏ đạo.
-226. Đế rị bồ bà na # 三界 — Ba cõi đều là trường học của tỉnh thức.
-227. Man trà ra # 道場 — Đạo tràng thật là nơi tâm chịu tu.
-228. Ô hồng # 本源 — Trở về bản nguyên là trở về trước mọi sợ hãi.
-229. 🙏 Ta tất đế # 成就 — Thành tựu bắt đầu từ niềm tin không đứt đoạn.
-230. Bạt bà đô # 圓滿 — Viên mãn là điều lành được nuôi cho chín.
-231. Mạ mạ # 自身 — Tự thân là nơi phải bắt đầu mọi chuyển hóa.
-232. Ấn thố na mạ mạ tỏa # 成就吉祥 — Cát tường thành tựu khi thân tâm cùng hướng thiện.
-233. @@@ Ra xà bà dạ # 國王難 — Vương nạn đến để nhắc tâm phải vững trước quyền lực.
-234. Chủ ra bạt dạ # 王災 — Tai ách quyền thế không thắng được người giữ chánh niệm.
-235. A kỳ ni bà dạ # 火難 — Lửa nạn chỉ đốt được ngoài thân, không đốt được đạo tâm.
-236. Ô đà ca bà dạ # 水難 — Nước nạn dâng cao nhưng tâm có pháp vẫn nổi.
-237. Tỳ xa bà dạ # 毒害 — Độc hại bên ngoài không bằng độc hận trong lòng.
-238. Xá tát đa ra bà dạ # 兵刃難 — Dao gươm đáng sợ nhưng lời ác cũng cần được phòng.
-239. Bà ra chước yết ra bà dạ # 雷電難 — Sấm sét nhắc ta đời vô thường trong từng chớp mắt.
-240. Ðột sắc xoa bà dạ # 惡獸難 — Ác thú bên ngoài cũng là hình bóng bản năng chưa thuần.
-241. 🙏 A xá nể bà dạ # 非時死 — Sống hôm nay cho sáng vì vô thường không hẹn trước.
-242. A ca ra # 不動 — Bất động là đứng vững giữa tin dữ.
-243. Mật rị trụ bà dạ # 免死 — Thoát chết là còn cơ hội sống tử tế hơn.
-244. Ðà ra nị bộ di kiếm # 大地震 — Đất rung nhắc lòng người đừng bám vào cái không bền.
-245. Ba già ba đà bà dạ # 山崩 — Núi sập cũng không làm sập tâm biết nương Tam Bảo.
-246. Ô ra ca bà đa bà dạ # 暴風 — Bão lớn dạy cây sâu rễ và người sâu tâm.
-247. Lặc xà đàn trà bà dạ # 瘟疫 — Dịch bệnh nhắc thân mong manh nhưng tâm có thể sáng.
-248. Na dà bà dạ # 龍難 — Long nạn là sóng ngầm cần qua bằng định lực.
-249. Tỳ điều đát bà dạ # 鬼魅 — Quỷ mị là ảo ảnh làm tâm quên đường về.
-250. Tô ba ra noa bà dạ # 鳥怪 — Điềm lạ không bằng một tâm biết tỉnh.
-251. Dược xoa yết ra ha # 夜叉執 — Bị chấp bởi hung dữ thì phải trở về từ bi.
-252. Ra xoa tư yết ra ha # 羅剎執 — La-sát chấp giữ chỉ tan khi tâm thôi nuôi sân.
-253. 🙏 Tất rị đa yết ra ha # 餓鬼執 — Ngạ quỷ là lòng thiếu thốn không biết đủ.
-254. Tỳ xá giá yết ra ha # 毘舍遮執 — Tỳ-xá-giá là bóng tối của tâm mê ăn nuốt.
-255. Bô đa yết ra ha # 部多鬼 — Bộ đa nhắc ta thấy những lực vô hình của tập khí.
-256. Cưu bàn trà yết ra ha # 鳩槃荼 — Cưu-bàn-trà là sự méo mó khi tâm xa chánh pháp.
-257. Bổ đơn na yết ra ha # 富單那 — Bổ đơn na là khí u ám cần ánh sáng thanh tịnh.
-258. Ca tra bổ đơn na yết ra ha # 迦吒富單那 — Chướng sâu cũng tan khi tâm bền quay về.
-259. Tất kiền độ yết ra ha # 乾闥婆 — Càn-thát-bà là ảo hương danh vọng, đẹp mà không thật.
-260. A bá tất ma ra yết ra ha # 癲狂鬼 — Điên đảo là khi tâm tin mọi tiếng nói của sợ hãi.
-261. Ô đàn ma đà yết ra ha # 狂亂鬼 — Cuồng loạn tan khi hơi thở trở về với hiện tại.
-262. Xa dạ yết ra ha # 夜魅 — Dạ mị là bóng đêm trong tâm cần ánh sáng niệm Phật.
-263. Hê rị bà đế yết ra ha # 毒鬼 — Độc quỷ đáng sợ nhất là ý nghĩ độc trong mình.
-264. Xả đa ha rị nẩm # 奪精氣 — Đừng để lo âu đoạt mất tinh khí đời mình.
-265. 🙏 Yết bà ha rị nẩm # 奪胎 — Bảo vệ mầm lành như bảo vệ sự sống mới.
-266. Lô địa ra ha rị nẩm # 奪血 — Đừng để hận thù hút cạn máu nóng của lòng thương.
-267. Mang ta ha rị nẩm # 奪肉 — Nỗi đau có thể mòn thân nhưng không nên mòn tâm.
-268. Mê đà ha rị nẩm # 奪脂 — Những gì tiêu hao âm thầm cần được soi bằng tỉnh thức.
-269. Ma xà ha rị nẩm # 奪髓 — Đừng để khổ đau ăn vào tận tủy niềm tin.
-270. Xà đa ha rị nữ # 奪命 — Giữ mạng là quý, giữ đạo tâm còn quý hơn.
-271. Thị tỷ đa ha rị nẩm # 奪識 — Đừng để sợ hãi đoạt mất nhận biết sáng suốt.
-272. Tỳ đa ha rị nẩm # 奪氣 — Một hơi thở tỉnh có thể lấy lại khí lực.
-273. Bà đa ha rị nẩm # 奪力 — Khi lực bị đoạt hãy nương vào nguyện lực.
-274. A du giá ha rị nữ # 奪壽 — Thọ mạng mong manh nên từng ngày phải sống lành.
-275. Chất đa ha rị nữ # 奪心 — Đừng để biến cố đoạt mất trái tim.
-276. Ðế sam tát bệ sam # 彼等一切 — Tất cả chướng đều nhỏ trước một tâm biết giác.
-277. 🙏 Tát bà yết ra ha nẩm # 一切執著 — Mọi chấp trước đều là dây trói cần tháo.
-278. Tỳ đà dạ xà # 破除 — Phá trừ là dám cắt điều kéo mình xuống.
-279. Sân đà dạ di # 摧伏 — Hàng phục là làm mềm cơn cứng đầu của phiền não.
-280. Kê ra dạ di # 消滅 — Tiêu diệt ác niệm là mở chỗ cho thiện niệm.
-281. Ba rị bạt ra giả ca # 遍斷 — Đoạn tận là không để gốc khổ mọc lại.
-282. Hất rị đởm # 心咒 — Tâm chú là lời nhắc sâu nhất với chính mình.
-283. Tỳ đà dạ xà # 破除 — Phá trừ lần nữa vì tập khí thường quay lại.
-284. Sân đà dạ di # 摧伏 — Cứ hàng phục, dù phiền não chưa chịu thua.
-285. Kê ra dạ di # 消滅 — Mỗi lần diệt một niệm xấu là thêm một khoảng trời sáng.
-286. Trà diễn ni # 燒盡 — Thiêu tận là không để tàn tro sân hận cháy lại.
-287. Hất rị đởm # 心咒 — Tâm chú giữ lửa sáng mà không đốt người.
-288. Tỳ đà dạ xà # 破除 — Phá trừ là dũng khí của người muốn tự do.
-289. 🙏 Sân đà dạ di # 摧伏 — Hàng phục không bằng bạo lực mà bằng định lực.
-290. Kê ra dạ di # 消滅 — Tiêu diệt bóng tối bằng cách thắp đèn.
-291. Ma ha bát du bát đác dạ # 大怖畏 — Đại sợ hãi là cửa để thấy niềm tin lớn.
-292. Lô đà ra # 大自在 — Đại tự tại là đứng giữa sợ hãi mà không bị nó kéo.
-293. Hất rị đởm # 心咒 — Tâm chú là tay vịn khi đi qua vực.
-294. Tỳ đà dạ xà # 破除 — Phá trừ là không cho nỗi sợ lặp lại thành số phận.
-295. Sân đà dạ di # 摧伏 — Hàng phục là đưa tâm dữ về chỗ hiền.
-296. Kê ra dạ di # 消滅 — Tiêu diệt là để kết thúc vòng lặp khổ đau.
-297. Na ra dạ noa # 大力天 — Đại lực thiên nhắc ta còn sức mạnh được hộ trì.
-298. Hất rị đởm # 心咒 — Tâm chú là sức mạnh âm thầm của người tu.
-299. Tỳ đà dạ xà # 破除 — Phá trừ là mở cửa thoát khỏi tối tăm.
-300. Sân đà dạ di # 摧伏 — Hàng phục từng chút là thắng từng chút.
-301. 🙏 Kê ra dạ di # 消滅 — Một niệm xấu diệt là một niệm lành có chỗ sống.
-302. Ðát đỏa dà lô trà tây # 金翅鳥 — Kim sí điểu là sức vượt lên khỏi ràng buộc.
-303. Hất rị đởm # 心咒 — Tâm chú cho đôi cánh khi lòng nặng.
-304. Tỳ đà dạ xà # 破除 — Phá trừ là cắt lưới cũ của khổ.
-305. Sân đà dạ di # 摧伏 — Hàng phục là không để thói quen xấu làm chủ.
-306. Kê ra dạ di # 消滅 — Tiêu diệt điều xấu để lòng lành dễ thở.
-307. Ma ha ca ra # 大黑天 — Đại Hắc Thiên nhắc bóng tối cũng có thể được chuyển hóa.
-308. Ma đác rị già noa # 天母 — Thiên mẫu là sức nuôi dưỡng của lòng từ.
-309. Hất rị đởm # 心咒 — Tâm chú là mẹ hiền của tâm loạn.
-310. Tỳ đà dạ xà # 破除 — Phá trừ là không nuôi bóng tối trong nhà tâm.
-311. Sân đà dạ di # 摧伏 — Hàng phục là kéo tâm về đúng chỗ.
-312. Kê ra dạ di # 消滅 — Tiêu diệt phiền não là trả tự do cho mình.
-313. 🙏 Ca ba rị ca # 護法 — Hộ pháp là bảo vệ phần thiện khỏi bị lấn át.
-314. Hất rị đởm # 心咒 — Tâm chú là pháp hộ vệ ngay trong ngực.
-315. Tỳ đà dạ xà # 破除 — Phá trừ là xóa đường đi của ác niệm.
-316. Sân đà dạ di # 摧伏 — Hàng phục là biến giận thành hiểu.
-317. Kê ra dạ di # 消滅 — Diệt khổ không bằng trốn mà bằng tỉnh.
-318. Xà dạ yết ra # 勝利 — Chiến thắng là giữ được tâm lành sau trận bão.
-319. Ma độ yết ra # 破魔 — Phá ma là phá tiếng gọi của tuyệt vọng.
-320. Tát bà ra tha ta đạt na # 一切成就 — Tất cả thành tựu bắt đầu từ một tâm không bỏ cuộc.
-321. Hất rị đởm # 心印 — Tâm ấn là dấu niêm của niềm tin sâu.
-322. Tỳ đà dạ xà # 破除 — Phá trừ là dọn đường cho trí tuệ.
-323. Sân dà dạ di # 摧伏 — Hàng phục là thắng mình trong khoảnh khắc khó nhất.
-324. Kê ra dạ di # 消滅 — Tiêu diệt loạn niệm là trả tâm về an.
-325. 🙏 Giả đốt ra # 堅固 — Kiên cố là không đổi hướng vì vài cơn gió.
-326. Bà kỳ nể # 吉祥 — Cát tường là quả của tâm biết hướng thiện.
-327. Hất rị đởm # 心印 — Tâm ấn giữ ta khỏi quên lời nguyện.
-328. Tỳ đà dạ xà # 破除 — Phá trừ là nói không với điều làm mình thấp xuống.
-329. Sân đà dạ di # 摧伏 — Hàng phục là làm chủ phản ứng của mình.
-330. Kê ra dạ di # 消滅 — Tiêu diệt tâm độc là cứu lấy chính mình.
-331. Tỳ rị dương hất rị tri # 勇力 — Dũng lực là sức đi tiếp bằng lòng ngay.
-332. Nan đà kê sa ra # 吉祥 — Cát tường nở ra từ tâm biết hoan hỷ.
-333. Dà noa bác đế # 智慧主 — Trí tuệ chủ là để sáng suốt làm người dẫn đường.
-334. Sách hê dạ # 正行 — Chánh hành là làm đúng trong từng việc nhỏ.
-335. Hất rị đởm # 心印 — Tâm ấn là lời hứa không phản bội ánh sáng.
-336. Tỳ đà dạ xà # 破除 — Phá trừ là dứt điều khiến mình quên đạo.
-337. 🙏 Sân đà dạ di # 摧伏 — Hàng phục là thuần hóa con ngựa tâm.
-338. Kê ra dạ di # 消滅 — Tiêu diệt là để điều lành có chỗ mọc.
-339. Na yết na xá ra bà noa # 破邪 — Phá tà là không để lời sai làm lệch tâm.
-340. Hất rị đởm # 心印 — Tâm ấn là cột mốc giữa đời đổi thay.
-341. Tỳ đà dạ xà # 破除 — Phá trừ là tháo nút thắt trong lòng.
-342. Sân đà dạ di # 摧伏 — Hàng phục là làm dịu lửa trước khi nó cháy lan.
-343. Kê ra dạ di # 消滅 — Tiêu diệt ác duyên bằng cách không tiếp sức cho nó.
-344. A-la-hán # 阿羅漢 — A-la-hán là hình ảnh của tâm đã đặt gánh xuống.
-345. Hất rị đởm # 心印 — Tâm ấn nhắc ta đã có đường về.
-346. Tỳ đà dạ xà # 破除 — Phá trừ là cắt sợi dây phiền não.
-347. Sân đà dạ di # 摧伏 — Hàng phục là không cho giận quyết định đời mình.
-348. Kê ra dạ di # 消滅 — Tiêu diệt cơn tối bằng một niệm sáng.
-349. 🙏 Tỳ đa ra dà # 離欲 — Ly dục là tự do khỏi những thứ từng điều khiển ta.
-350. Hất rị đởm # 心印 — Tâm ấn giữ nguyện lành không phai.
-351. Tỳ đà dạ xà # 破除 — Phá trừ là rời xa cái bẫy cũ.
-352. Sân đà dạ di # 摧伏 — Hàng phục là quay lưng với thói quen hại mình.
-353. Kê ra dạ di # 消滅 — Tiêu diệt là khép lại một cửa tối.
-354. Bạt xà ra ba nể # 金剛手 — Kim Cang thủ là bàn tay bảo vệ điều đúng.
-355. Câu hê dạ câu hê dạ # 速速 — Hãy nhanh quay về trước khi tâm đi quá xa.
-356. Ca địa bát đế # 護主 — Hộ chủ là giữ người giữ pháp.
-357. Hất rị đởm # 心印 — Tâm ấn là sức giữ mình giữa nhiễu loạn.
-358. Tỳ đà dạ xà # 破除 — Phá trừ là không để cái sai mọc rễ.
-359. Sân đà dạ di # 摧伏 — Hàng phục là đưa sự dữ về im lặng.
-360. Kê ra dạ di # 消滅 — Tiêu diệt là trả bầu trời trong cho tâm.
-361. 🙏 Ra xoa vỏng # 羅剎王 — La-sát vương cũng phải lùi trước tâm hộ pháp.
-362. Bà dà phạm # 世尊 — Thế Tôn là chỗ nương khi đời nổi sóng.
-363. Ấn thố na mạ mạ tỏa # 圓滿成就 — Viên mãn thành tựu là tự thân trở về ánh sáng.
-364. @@@@ Bà dà phạm # 世尊 — Kính lễ Thế Tôn để tâm nhớ mình không cô độc.
-365. Tát đác đa bát đác ra # 大白傘蓋 — Lọng trắng lớn che chở người đi qua bão nghiệp.
-366. Nam-mô tý đô đế # 歸命 — Quy mạng là trao sợ hãi cho ánh sáng.
-367. A tất đa na ra lặc ca # 無上守護 — Hộ trì vô thượng là tâm được giữ khỏi rơi.
-368. Ba ra bà # 圓滿 — Viên mãn là đủ sáng ngay cả khi đời còn thiếu.
-369. Tất phổ tra # 普遍 — Phổ biến là ánh sáng không bỏ sót góc tối nào.
-370. Tỳ ca tát đác đa bát đế rị # 大白傘威德 — Uy đức Đại Bạch Tản Cái làm tâm vững giữa tai ương.
-371. Thập Phật ra thập Phật ra # 十方佛 — Mười phương Phật nhắc ta khắp nơi đều có đường về.
-372. Ðà ra đà ra # 執持 — Chấp trì là giữ tâm không rơi khỏi pháp.
-373. 🙏 Tần đà ra tần đà ra # 斷除 — Đoạn trừ là cắt tận gốc điều làm mình khổ.
-374. Sân đà sân đà # 摧伏 — Tồi phục là làm mềm điều cứng nhất trong tâm.
-375. Hổ hồng hổ hồng # 威攝 — Uy nhiếp là tiếng gọi khiến phiền não lặng xuống.
-376. Phấn tra phấn tra phấn tra phấn tra phấn tra # 破破破破破 — Phá năm lần là phá sợ, phá hận, phá chấp, phá loạn, phá tối.
-377. Ta ha # 成就 — Ta bà ha là lời chốt cho sự thành tựu bằng trí tuệ.
-378. Hê hê phấn # 速破 — Phá nhanh là không cho ác niệm kịp dựng nhà.
-379. A mâu ca da phấn # 無障破 — Không chướng phá là ánh sáng đi thẳng qua bóng tối.
-380. A ba ra đề ha da phấn # 無敵破 — Vô địch phá là niềm tin không khuất phục.
-381. Ba ra bà ra đà phấn # 大破 — Đại phá là phá cả gốc sợ hãi.
-382. A tố ra # 阿修羅 — A-tu-la nhắc tâm tranh đấu cũng cần được hóa giải.
-383. Tỳ đà ra # 破壞 — Phá hoại chỉ thắng khi ta quên tỉnh thức.
-384. Ba ca phấn # 焚燒 — Thiêu sạch là đốt gốc độc mà không đốt lòng từ.
-385. 🙏 Tát bà đề bệ tệ phấn # 一切天破 — Dù lực trời cao cũng không vượt Phật Đảnh.
-386. Tát bà na dà tệ phấn # 一切龍破 — Dù rồng sâu cũng không sâu hơn trí tuệ.
-387. Tát bà dược xoa tệ phấn # 一切夜叉破 — Dù dược xoa dữ cũng lùi trước tâm chánh.
-388. Tát bà kiền thát bà tệ phấn # 一切乾闥婆破 — Ảo hương danh vọng tan trước sự thật.
-389. Tát bà bổ đơn na tệ phấn # 一切富單那破 — Khí u ám tan khi tâm trở về trong sạch.
-390. Ca tra bổ đơn na tệ phấn # 迦吒富單那破 — Chướng ngại sâu cũng bị phá bởi nguyện sâu.
-391. Tát bà đột lang chỉ đế tệ phấn # 一切惡鬼破 — Ác quỷ trong ngoài đều tan trước ánh sáng.
-392. Tát bà đột sáp tỷ lê # 一切惡神 — Ác thần chỉ mạnh khi tâm quên chánh niệm.
-393. Hất sắc đế tệ phấn # 摧滅 — Tồi diệt là kết thúc quyền lực của bóng tối.
-394. Tát bà thập bà lê tệ phấn # 一切執破 — Mọi chấp trước đều cần được phá để tâm tự do.
-395. Tát bà a bá tất ma lê tệ phấn # 一切癲狂破 — Điên đảo tan khi ta trở về hơi thở.
-396. Tát bà xá ra bà noa tệ phấn # 一切邪說破 — Tà thuyết bị phá bởi một tâm biết xét lại.
-397. 🙏 Tát bà địa đế kê tệ phấn # 一切地祇破 — Địa lực nào cũng không giữ nổi người có tâm giác.
-398. Tát bà đát ma đà kê tệ phấn # 一切魔破 — Mọi ma nạn đều nhỏ trước tâm không bỏ đạo.
-399. Tát bà tệ đà da # 一切外道 — Ngoại đạo trong tâm là đường lệch khỏi chân thật.
-400. Ra thệ giá lê tệ phấn # 王難破 — Vương nạn bị phá khi tâm không bị quyền lực làm loạn.
-401. Xà dạ yết ra # 勝利 — Thắng lợi là đi qua nạn mà vẫn còn lòng lành.
-402. Ma độ yết ra # 破魔 — Phá ma là không để tuyệt vọng lên tiếng thay mình.
-403. Tát bà ra tha ta đà kê tệ phấn # 一切成就 — Mọi thành tựu đều cần phá chướng trước.
-404. Tỳ địa dạ # 智慧 — Trí tuệ là vũ khí hiền lành mà sắc bén nhất.
-405. Giá lê tệ phấn # 摧滅 — Tồi diệt điều ác là bảo vệ mầm lành.
-406. Giả đô ra # 堅固 — Kiên cố là lòng không đổi khi cảnh đổi.
-407. Phược kỳ nể tệ phấn # 吉祥破 — Phá chướng để cát tường thật sự hiện ra.
-408. Bạt xà ra # 金剛 — Kim Cang là tâm không vỡ trước va đập đời.
-409. 🙏 Câu ma rị # 金剛女 — Kim Cang nữ là dịu dàng nhưng không yếu mềm.
-410. Tỳ đà dạ # 智慧 — Trí tuệ giúp ta mạnh mà không ác.
-411. La thệ tệ phấn # 王難破 — Phá vương nạn là giữ tâm tự do trước áp lực.
-412. Ma ha ba ra đinh dương # 大威光 — Đại uy quang soi sáng cả vùng sợ hãi.
-413. Xoa kỳ rị tệ phấn # 速破 — Phá nhanh là đừng cho bóng tối kéo dài.
-414. Bạt xà ra thương yết ra dạ # 金剛鎧 — Áo giáp Kim Cang là tâm không cho độc thấm vào.
-415. Ba ra trượng kỳ ra xà da phấn # 大自在王破 — Phá cả vua tự tại giả để trở về tự tại thật.
-416. Ma ha ca ra dạ # 大黑天 — Đại Hắc Thiên nhắc bóng tối cũng nằm trong pháp giới.
-417. Ma ha mạt đát rị ca noa # 大天母 — Đại Thiên Mẫu là năng lực nuôi dưỡng và chuyển hóa.
-418. Nam-mô ta yết rị đa da phấn # 成就破 — Thành tựu bằng cách phá điều ngăn tâm sáng.
-419. Tỷ sắc noa tỳ duệ phấn # 毘濕奴破 — Mọi thần lực đều phải quy về chánh pháp.
-420. Bột ra ha mâu ni duệ phấn # 梵天破 — Phạm thiên cũng không vượt khỏi trí tuệ Phật.
-421. 🙏 A kỳ ni duệ phấn # 火神破 — Hỏa thần bị phá khi lửa sân được chuyển thành sáng.
-422. Ma ha yết rị duệ phấn # 大作破 — Việc lớn của bóng tối cũng bị phá bởi tâm lớn.
-423. Yết ra đàn tri duệ phấn # 夜叉主破 — Chủ dạ xoa cũng lùi trước người giữ pháp.
-424. Miệc đát rị duệ phấn # 母神破 — Mọi lực mẹ lệch lạc đều được chuyển về từ bi.
-425. Lao đát rị duệ phấn # 羅怛利破 — Bóng đêm nữ thần tan trước ánh sáng chánh niệm.
-426. Giá văn trà duệ phấn # 夜神破 — Dạ thần không che được người có đèn tâm.
-427. Yết la ra đác rị duệ phấn # 鬼女破 — Quỷ nữ là mê lực cần được soi bằng tuệ.
-428. Ca bát rị duệ phấn # 護法破 — Hộ pháp lệch cũng phải trở về chánh pháp.
-429. A địa mục chất đa # 殊勝解 — Thắng giải là hiểu sâu rồi không còn sợ như trước.
-430. Ca thi ma xá na # 捨身 — Xả thân là buông cái tôi đang ôm khổ.
-431. Bà tư nể duệ phấn # 清淨破 — Phá để thanh tịnh, không phải phá để hận thù.
-432. Diễn kiết chất # 結界 — Kết giới là dựng hàng rào chánh niệm cho tâm.
-433. 🙏 Tát đỏa bà tỏa # 勇猛 — Dũng mãnh là hiền lành mà không gục.
-434. Mạ mạ ấn thố na mạ mạ tỏa # 自身圓滿成就 — Tự thân viên mãn là đi qua nạn mà không mất mình.
-435. @@@@@ Ðột sắc tra chất đa # 惡心 — Ác tâm cần được nhận diện trước khi được chuyển hóa.
-436. A mạt đác rị chất đa # 不善心 — Bất thiện tâm tan khi thiện niệm được nuôi mỗi ngày.
-437. Ô xà ha ra # 奪氣 — Đừng để điều xấu đoạt mất khí lực sống.
-438. Dà ba ha ra # 奪力 — Khi lực bị đoạt hãy nương vào nguyện lực.
-439. Lô địa ra ha ra # 奪血 — Đừng để hận thù hút cạn máu nóng.
-440. Ta bà ha ra # 奪精 — Giữ tinh lực bằng đời sống trong sạch.
-441. Ma xà ha ra # 奪髓 — Đừng để khổ đau ăn vào tủy niềm tin.
-442. Xà đa ha ra # 奪命 — Hãy giữ mạng bằng chánh niệm và thiện nghiệp.
-443. Thị tỉ đa ha ra # 奪識 — Đừng để loạn động đoạt mất nhận thức.
-444. Bạt lược dạ ha ra # 奪壽 — Thời gian quý vì vô thường không đợi ai.
-445. 🙏 Kiền đà ha ra # 奪香氣 — Đừng để phiền não đoạt hương lành của tâm.
-446. Bố sữ ba ha ra # 奪花氣 — Hãy giữ hoa tâm khỏi héo vì oán.
-447. Phả ra ha ra # 奪光 — Đừng để bóng tối đoạt ánh sáng trong mắt.
-448. Bà tả ha ra # 奪語 — Giữ lời nói vì lời có thể cứu hoặc làm đau.
-449. Bát ba chất đa # 邪念 — Tà niệm là mầm nhỏ cần nhổ sớm.
-450. Ðột sắc tra chất đa # 惡心 — Ác tâm lặp lại để ta nhớ phải tỉnh lặp lại.
-451. Lao đà ra chất đa # 羅怛利心 — Tâm đêm tối cần một ngọn đèn pháp.
-452. Dược xoa yết ra ha # 夜叉執 — Khi hung dữ chấp giữ hãy trở về lòng từ.
-453. Ra sát ta yết ra ha # 羅剎執 — La-sát chấp tâm bằng sân, pháp mở bằng nhẫn.
-454. Bế lệ đa yết ra ha # 餓鬼執 — Ngạ quỷ chấp là lòng thiếu thốn không biết đủ.
-455. Tỳ xá giá yết ra ha # 毘舍遮執 — Tâm nhiễm tối cần được rửa bằng chánh kiến.
-456. Bộ đa yết ra ha # 部多鬼 — Tập khí cũ là quỷ cũ cần được nhận ra.
-457. 🙏 Cưu bàn trà yết ra ha # 鳩槃荼 — Tâm méo mó được sửa bằng giới và định.
-458. Tất kiền đà yết ra ha # 乾闥婆 — Ảo hương danh vọng không nuôi được linh hồn.
-459. Ô đát ma đà yết ra ha # 狂鬼 — Cuồng loạn dừng lại khi hơi thở được nghe thấy.
-460. Xa dạ yết ra ha # 夜魅 — Dạ mị tan khi bình minh chánh niệm lên.
-461. A bá tất ma ra yết ra ha # 癲狂 — Điên đảo là quên mất nơi quay về.
-462. Trạch khê cách # 驅逐 — Hãy xua đi điều không còn thuộc về đường sáng.
-463. Trà kỳ ni yết ra ha # 茶吉尼 — Mê lực sắc bén cần được soi bằng trí tuệ.
-464. Rị Phật đế yết ra ha # 毘佛提 — Mọi lực quấy nhiễu đều yếu trước tâm tỉnh.
-465. Xà di ca yết ra ha # 邪魅 — Tà mị chỉ mạnh khi ta quên chánh niệm.
-466. Xá câu ni yết ra ha # 鳥鬼 — Chim quỷ là điềm động cần tâm bất động.
-467. Lao đà ra # 羅怛利 — Bóng đêm không đáng sợ bằng tâm không có đèn.
-468. Nan địa ca yết ra ha # 難提鬼 — Quỷ khó cũng là bài học về nhẫn.
-469. 🙏 A lam bà yết ra ha # 阿藍婆 — Chướng lạ đến để thử sức quay về.
-470. Kiền độ ba ni yết ra ha # 香鬼 — Hương quỷ là cái đẹp giả làm tâm lạc.
-471. Thập phạt ra # 十方 — Mười phương đều là nơi tu nếu tâm biết học.
-472. Yên ca hê ca # 驅散 — Xua tan là trả bầu trời lại cho tâm.
-473. Trị đế dược ca # 治癒 — Chữa lành bắt đầu khi ta thôi tự làm đau thêm.
-474. Ðát lệ đế dược ca # 除病 — Trừ bệnh tâm là gốc của bình an.
-475. Giả đột thác ca # 斷除 — Đoạn trừ là dứt khoát với điều hại mình.
-476. Ni đề thập phạt ra # 十方守護 — Mười phương hộ trì người biết giữ điều lành.
-477. Tỉ sam ma thập phạt ra # 平等守護 — Bình đẳng hộ trì là ánh sáng không thiên vị.
-478. Bạt để ca # 護持 — Hộ trì là nâng đỡ âm thầm mà bền bỉ.
-479. Tỷ để ca # 安定 — An định là sức mạnh đứng sau mọi quyết định đúng.
-480. Thất lệ sắc mật ca # 吉祥密 — Cát tường mật là phước lành âm thầm trong tâm.
-481. 🙏 Ta nể bát để ca # 守護主 — Hộ chủ là người giữ cho mình không rời pháp.
-482. Tát bà thập phạt ra # 一切守護 — Tất cả hộ trì tụ về nơi tâm chân thành.
-483. Thất lô kiết đế # 吉祥地 — Đất cát tường là nơi tâm biết biết ơn.
-484. Mạt đà bệ đạt lô chế kiếm # 大威光 — Đại uy quang soi tới vùng ta từng né tránh.
-485. A ỷ lô kiềm # 日輪 — Nhật luân là mặt trời của sự rõ biết.
-486. Mục khê lô kiềm # 面輪 — Diện luân nhắc gương mặt cũng phản chiếu tâm.
-487. Yết rị đột lô kiềm # 金輪 — Kim luân là bánh xe bền của chánh pháp.
-488. Yết ra ha # 執持 — Chấp trì là giữ vững điều đã nguyện.
-489. Yết lam yết noa du lam # 咽喉 — Cổ họng nhắc ta giữ lời nói thanh tịnh.
-490. Ðản đa du lam # 牙齒 — Răng nhắc lời cắn xé cần được giữ lại.
-491. Hất rị dạ du lam # 心 — Trái tim là nơi pháp phải được sống.
-492. Mạt mạ du lam # 脈 — Mạch sống là dòng chánh niệm âm thầm.
-493. 🙏 Bạt rị thất bà du lam # 胸 — Lồng ngực hãy chứa lòng rộng hơn nỗi đau.
-494. Tỷ lật sắc tra du lam # 脾 — Nội tạng cũng cần bình an của tâm.
-495. Ô đà ra du lam # 腹 — Bụng mềm thì hơi thở sâu và tâm dịu.
-496. Yết tri du lam # 脊 — Xương sống thẳng là thân nhắc tâm đứng vững.
-497. Bạt tất đế du lam # 膀胱 — Thân này mong manh nên phải chăm bằng chánh niệm.
-498. Ô lô du lam # 腿 — Đôi chân đi đâu cũng nên hướng về điều lành.
-499. Thường dà du lam # 腸 — Ruột gan bình an khi tâm bớt độc.
-500. Hắc tất đa du lam # 血 — Máu nóng hãy chảy cho lòng thương, không cho hận.
-501. Bạt đà du lam # 骨 — Xương cốt nhắc ta cần một nền đạo lực vững.
-502. Ta phòng án dà # 房室 — Chốn ở cũng thành đạo tràng khi tâm biết tu.
-503. Bát ra trượng dà du lam # 臂 — Cánh tay mạnh nhất là cánh tay nâng người khác.
-504. Bộ đa tỷ đa trà # 諸鬼 — Các quỷ là hình bóng của những tâm chưa được sáng.
-505. 🙏 Trà kỳ ni # 茶吉尼 — Sắc bén của mê lực cần được chuyển thành trí lực.
-506. Thập bà ra # 十方 — Mười phương đều mở khi tâm không đóng.
-507. Ðà đột lô ca # 大地 — Đại địa dạy ta chịu đựng mà vẫn nuôi dưỡng.
-508. Kiến đốt lô kiết tri # 見聞 — Thấy nghe đúng là cửa của trí tuệ.
-509. Bà lộ đa tỳ # 大風 — Đại phong nhắc ta mọi thứ đều đang chuyển động.
-510. Tát bát lô # 一切 — Tất cả pháp đều nhắc ta tỉnh.
-511. Ha lăng già # 震動 — Chấn động là lời gọi thức tỉnh.
-512. Du sa đát ra # 守護 — Hộ trì là giữ tâm khỏi rơi vào tối.
-513. Ta na yết ra # 城守 — Giữ thành là giữ cửa mắt tai ý.
-514. Tỳ sa dụ ca # 毒害 — Độc hại chỉ thắng khi ta uống nó bằng oán.
-515. A kỳ ni # 火 — Lửa sân cần được chuyển thành lửa tu.
-516. Ô đà ca # 水 — Nước nhẫn có thể dập lửa phiền não.
-517. 🙏 Mạt ra bệ ra # 死魔 — Tử ma nhắc ta sống tỉnh trước khi muộn.
-518. Kiến đa ra # 見魔 — Kiến ma là thấy sai rồi tin là thật.
-519. A ca ra # 不動 — Bất động là không chạy theo mọi tiếng gọi.
-520. Mật rị đốt # 無死 — Vô tử là tâm sống trong pháp không sinh diệt.
-521. Ðát liểm bộ ca # 大怖 — Đại bố úy là nơi niềm tin được thử.
-522. Ðịa lật lặc tra # 地震 — Địa chấn nhắc nền ngoài động thì nền tâm phải vững.
-523. Tỷ rị sắc chất ca # 破壞 — Phá hoại ngoài đời không được phá hỏng lòng mình.
-524. Tát bà na câu ra # 一切難 — Tất cả nạn đều có thể thành cửa tu.
-525. Tứ dẫn dà tệ # 四方 — Bốn phương đều là đường nếu tâm có hướng.
-526. Yết ra rị dược xoa # 夜叉 — Dạ xoa nhắc sự dữ cần được hàng phục bằng pháp.
-527. Ðác ra sô # 毒蛇 — Rắn độc bên ngoài không độc bằng ý nghĩ hận thù.
-528. Mạt ra thị # 魔使 — Ma sứ thường đến qua những lời khiến ta tuyệt vọng.
-529. 🙏 Phệ đế sam # 彼等 — Chúng kia đều chỉ là duyên đến rồi đi.
-530. Ta bệ sam # 一切 — Tất cả đều được soi dưới ánh sáng Phật Đảnh.
-531. Tất đát đa bát đác ra # 大白傘 — Đại Bạch Tản là lọng trắng của tâm thanh tịnh.
-532. Ma ha bạt xà lô # 大金剛 — Đại Kim Cang là sức không vỡ của chánh niệm.
-533. Sắc ni sam # 頂相 — Đỉnh tướng nhắc ta sống hướng lên.
-534. Ma ha bát lặc trượng kỳ lam # 大威光 — Đại uy quang phá vùng tối của sợ hãi.
-535. Dạ ba đột đà # 夜怖 — Nỗi sợ đêm tan khi tâm có ánh sáng.
-536. Xá dụ xà na # 守護 — Hộ trì là được giữ trong nguyện lành.
-537. Biện đát lệ noa # 遍照 — Biến chiếu là soi khắp không bỏ góc khuất.
-538. Tỳ đà da # 智慧 — Trí tuệ là đường ra khỏi mọi mê cung.
-539. Bàn đàm ca lô di # 結界 — Kết giới là dựng ranh giới cho điều thiện.
-540. Ðế thù # 堅固 — Kiên cố là không để tâm bị xâm chiếm.
-541. 🙏 Bàn đàm ca lô di # 結界 — Kết giới lần nữa là giữ mình thật kỹ.
-542. Bát ra tỳ đà # 破邪 — Phá tà là trả tâm về đường thẳng.
-543. Bàn đàm ca lô di # 結界 — Kết giới là yêu thương bản thân bằng chánh niệm.
-544. Ðát điệt tha # 即說咒曰 — Tức thuyết chú là lời pháp bắt đầu chuyển động.
-545. Án # 唵 — Án là tiếng mở cửa của tâm linh.
-546. A na lệ # 不動 — Không động là không để cảnh kéo đi.
-547. Tỳ xá đề # 清淨 — Thanh tịnh là đất sạch cho trí tuệ mọc.
-548. Bệ ra # 威力 — Uy lực thật là sức mạnh không làm hại.
-549. Bạt xà ra # 金剛 — Kim Cang là bền chắc trong điều thiện.
-550. Ðà rị # 持 — Trì giữ là yêu pháp bằng hành động.
-551. Bàn đà bàn đà nể # 結結 — Kết lại là giữ tâm không rò rỉ theo phiền não.
-552. Bạt xà ra bán ni phấn # 金剛手破 — Kim Cang Thủ phá tan điều cản đường sáng.
-553. 🙏 Hổ hồng đô lô ung phấn # 威攝破 — Uy nhiếp phá là tiếng sấm làm ma tâm tan rã.
-554. Ta bà ha # 成就 — Ta bà ha là lời nguyện thành tựu 
+01. 🙏 @ Nam-mô tát đát tha # 如來 | Tathāgata | तथागत — 南無薩怛他 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+02. Tô già đa da # 善逝 | Sugata | सुगत — 蘇伽多耶 nhắc đường lành là đi qua vô thường mà không rời tánh giác.
+03. A ra ha đế # 應供 | Arhat | अर्हत् — 阿囉訶帝 nhắc người đáng kính là người đã buông ngã chấp và sống vì chúng sinh.
+04. Tam-miệu tam bồ đà tỏa # 正等覺 | Samyaksaṃbuddha | सम्यक्संबुद्ध — 三藐三菩陀寫 soi sáng chánh giác bình đẳng: thấy các pháp không tự tánh mà lòng từ càng rộng.
+05. Tát đát tha # 如是 | Tathatā | तथता — 薩怛他 dạy tôi thấy mọi pháp như thật: không thêm sợ hãi, không bớt lòng thương.
+06. Phật đà cu tri sắc ni sam # 佛頂 | Buddhoṣṇīṣa | बुद्धोष्णीष — 佛陀俱胝瑟尼釤 gợi lời Lăng Nghiêm: quay về tánh thấy sáng trong, đừng chạy theo trần cảnh.
+07. Nam-mô tát bà # 一切 | Sarva | सर्व — 南無薩囉 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+08. Bột đà bột địa # 菩提 | Bodhi | बोधि — 勃陀勃地 nhắc Bồ-đề là tỉnh thức ngay nơi đời động, không tìm giác ngộ ngoài tâm.
+09. Tát đa bệ tệ # 覺有情 | Bodhisattva | बोधिसत्त्व — 薩跢鞞弊 nhắc hạnh Bồ Tát: tự giác rồi giúp chúng sinh cùng rời mê tối.
+10. Nam-mô tát đa nẩm # 眾生 | Sattva | सत्त्व — 南無薩多喃 dạy tôi thương chúng sinh bằng tâm không chấp, vì ai cũng có hạt giống Phật.
+11. Tam-miệu tam bồ đà # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+12. Cu tri nẩm # 無量 | Apramāṇa | अप्रमाण — 俱知喃 mở tâm vô lượng: tính không không ngăn lòng thương, mà làm lòng thương không bờ.
+13. 🙏 Ta xá ra bà ca # 聲聞 | Śrāvaka | श्रावक — 娑舍囉婆迦 nhắc người nghe pháp phải xoay âm thanh trở về tự tánh, nghe để sửa mình.
+14. Tăng già nẩm # 僧眾 | Saṅgha | सङ्घ — 僧伽喃 nhắc Tăng bảo là sức cùng tu: nương đại chúng để giữ chánh niệm và lòng từ.
+15. Nam-mô lô kê A-La-Hán đa nẩm. # 世間阿羅漢 | Lokārhat | लोकार्हत् — 南無盧雞阿羅漢跢喃 nhắc giữa thế gian vẫn có con đường thanh tịnh: thấy không, lìa nhiễm, thương người.
+16. Nam-mô tô lô đa ba na nẩm. # 預流果 | Srotāpanna | स्रोतापन्न — 南無蘇盧多潘那喃 nhắc bước vào dòng Thánh là quay lưng với tà kiến và đi về chân tâm.
+17. Nam-mô ta yết rị đà dà di nẩm. # 一來果 | Sakṛdāgāmin | सकृदागामिन् — 南無娑羯唎陀伽彌喃 nhắc mỗi lần trở lại đời là một dịp mỏng dần tham sân và nuôi lớn trí tuệ.
+18. Nam-mô lô kê tam-miệu dà đa nẩm. # 四果聖者 | Āryaphala | आर्यफल — 南無盧雞三藐伽哆喃 nhắc Thánh quả không phải để hơn đời, mà để giải thoát mình và lợi ích người.
+19. Tam-miệu dà ba ra # 正行 | Samyak-caryā | सम्यक्-चर्या — 三藐伽波囉 nhắc chánh hành là đem tính không vào từng việc nhỏ: bớt chấp, thêm thương.
+20. Ðể ba đa na nẩm. # 真實住 | Tattvasthiti | तत्त्वस्थिति — 底波多那喃 dạy tôi an trú nơi chân thật: cảnh đổi mà tánh biết không đổi.
+21. Nam-mô đề bà ly sắc nỏa. # 超色界 | Rūpātīta | रूपातीत — 南無提婆離瑟赧 nhắc vượt sắc tướng là thấy thân cảnh như huyễn, nhưng vẫn chăm đời bằng lòng từ.
+22. Nam-mô tất đà da # 成就 | Siddhi | सिद्धि — 南無悉陀耶 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+23. Tỳ địa da # 智慧 | Vidyā | विद्या — 毗地耶 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+24. Ðà ra ly sắc nỏa. # 不染 | Anupalipta | अनुपलिप्त — 陀囉離瑟赧 nhắc không nhiễm là ở giữa trần lao mà không để tâm bị trần lao kéo đi.
+25. 🙏 Xá ba noa # 以音攝心 | Śabda-smṛti | शब्द-स्मृति — 舍波奴 nhắc dùng âm thanh nhiếp tâm: nghe chú mà quay về tánh nghe thanh tịnh.
+26. Yết ra ha # 攝持 | Grahaṇa | ग्रहण — 揭囉訶 nhắc nhiếp trì là giữ tâm không tán, để tà niệm không có chỗ chen vào.
+27. Ta ha ta ra ma tha nẩm # 降伏 | Abhibhava | अभिभव — 娑訶娑囉摩他喃 nhắc hàng phục không phải đánh bên ngoài, mà là thu phục vô minh trong tâm.
+28. Nam-mô bạt ra ha ma ni # 梵天 | Brahmā | ब्रह्मा — 南無跋囉訶摩尼 nhắc dù cảnh trời thanh cao vẫn vô thường; chỉ chân tâm mới là nơi quay về.
+29. Nam-mô nhơn dà ra da # 帝釋 | Indra | इन्द्र — 南無因陀囉耶 nhắc quyền lực phải quy về hộ pháp, bảo vệ điều thiện và người yếu khổ.
+30. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+31. Lô đà ra da. # 大自在 | Maheśvara | महेश्वर — 盧陀囉耶 nhắc đại tự tại là không bị cảnh sai sử, vì đã nhận ra tâm không sinh diệt.
+32. Ô ma bát đế # 柔伏 | Mṛdutā | मृदुता — 烏摩般帝 nhắc mềm mà phục được cứng: lấy từ bi và chánh niệm hóa giải sân hận.
+33. Ta hê dạ da. # 正行 | Samyak-caryā | सम्यक्-चर्या — 娑醯夜耶 nhắc chánh hành là đem tính không vào từng việc nhỏ: bớt chấp, thêm thương.
+34. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+35. Na ra dả # 最尊 | Uttama | उत्तम — 那囉野 nhắc điều tối tôn không ở danh vị, mà ở chân tâm sáng biết.
+36. Noa da # 引導 | Nāyaka | नायक — 拏耶 nhắc người tu cần được dẫn về chánh kiến, xa tà ma và gần lòng từ.
+37. 🙏 Bàn dá ma ha tam mộ đà da # 大三昧 | Mahāsamādhi | महासमाधि — 槃遮摩訶三慕陀囉 nhắc tam-muội là tâm lặng sáng: vọng đến biết vọng, không chạy theo vọng.
+38. Nam-mô tất yết rị đa da # 成就者 | Siddha | सिद्ध — 南無悉羯唎多耶 nhắc người thành tựu là người biết đem trí tuệ cứu mình và thương người.
+39. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+40. Ma ha ca ra da # 大威力 | Mahābala | महाबल — 摩訶迦囉耶 nhắc đại uy lực là sức của chánh niệm: phá mê mà không mất lòng từ.
+41. Ðịa rị bác lặc na # 堅固 | Dṛḍha | दृढ — 地唎普剌那 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+42. Dà ra tỳ đà ra # 破障 | Vighna-bheda | विघ्न-भेद — 伽囉毗陀囉 nhắc phá chướng là phá chấp trước che chân tâm, để trí tuệ hiện ra.
+43. Ba noa ca ra da. # 護持 | Pālana | पालन — 婆拏迦囉耶 nhắc hộ trì là giữ giới, giữ tâm, rồi đem sự an ổn ấy che chở chúng sinh.
+44. A địa mục đế # 殊勝解 | Adhimukti | अधिमुक्ति — 阿地目帝 nhắc thắng giải là hiểu sâu tính không, nên không sợ cảnh sinh diệt.
+45. Thi ma xá na nê # 捨生死 | Saṃsāra-tyāga | संसार-त्याग — 尸摩舍那泥 nhắc xả sinh tử là thấy thân mạng vô thường mà càng quý từng niệm tu.
+46. Bà tất nê # 清淨 | Viśuddhi | विशुद्धि — 婆悉泥 nhắc thanh tịnh là buông tà niệm, để chân tâm tự sáng như gương.
+47. Ma đát rị dà noa # 法母 | Dharma-mātṛ | धर्म-मातृ — 摩怛唎伽喃 nhắc pháp sinh ra trí tuệ và từ bi; học pháp là nuôi lại mẹ lành trong tâm.
+48. Nam-mô tất yết rị đa da # 成就者 | Siddha | सिद्ध — 南無悉羯唎多耶 nhắc người thành tựu là người biết đem trí tuệ cứu mình và thương người.
+49. 🙏 Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+50. Ða tha dà đa câu ra da # 如來族 | Tathāgata-kula | तथागत-कुल — 多他伽跢俱囉耶 nhắc dòng Như Lai là dòng trở về chân tâm, không phải dòng hơn thua.
+51. Nam-mô bát đầu ma câu ra da. # 蓮華族 | Padma-kula | पद्म-कुल — 南無鉢頭摩俱囉耶 nhắc hoa sen là ở bùn mà không nhiễm bùn, sống giữa đời mà không mất đạo.
+52. Nam-mô bạc xà ra câu ra da. # 金剛族 | Vajra-kula | वज्र-कुल — 南無跋闍囉俱囉耶 nhắc Kim Cang là trí tuệ không vỡ, phá tà mà vẫn giữ lòng từ.
+53. Nam-mô ma ni câu ra da # 摩尼族 | Maṇi-kula | मणि-कुल — 南無摩尼俱囉耶 nhắc viên ngọc tâm vốn sáng; bụi vọng tưởng chỉ che chứ không làm mất.
+54. Nam-mô dà xà câu ra da # 象族 | Gaja-kula | गज-कुल — 南無伽闍俱囉耶 nhắc voi lớn đi chậm mà vững: người tu cũng cần bền bỉ từng ngày.
+55. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+56. Ðế rị trà # 持 | Dhāraṇa | धारण — 帝唎荼 nhắc trì giữ là giữ chánh niệm trong từng hơi thở, không để tâm rò rỉ.
+57. Du ra tây na. # 勇猛 | Vīrya | वीर्य — 輸囉西那 nhắc dũng mãnh là dám nhìn thẳng vọng tâm và quay về tánh giác.
+58. Ba ra ha ra noa ra xà da # 大自在王 | Mahāsvatantra-rāja | महास्वतन्त्र-राज — 波囉喝囉拏囉闍耶 nhắc tự tại vương là không để tham sân làm vua trong tâm.
+59. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢多他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+60. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+61. 🙏 Nam-mô A di đa bà da # 阿彌陀佛 | Amitābha | अमिताभ — 南無阿彌多婆耶 nhắc ánh sáng vô lượng của A Di Đà dẫn tâm trở về không sinh diệt.
+62. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢多他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+63. A ra ha đế. # 阿羅漢 | Arhat | अर्हत् — 阿囉訶帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+64. Tam-miệu tam bồ đà da # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀耶 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+65. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+66. A sô bệ da # 阿閦佛 | Akṣobhya | अक्षोभ्य — 阿芻鞞耶 nhắc bất động: cảnh động mà tâm không động, vì tánh thấy không lay.
+67. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+68. A ra ha đế # 阿羅漢 | Arhat | अर्हत् — 阿囉訶帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+69. Tam-miệu tam bồ đà da # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀耶 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+70. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+71. Bệ xa xà da # 藥師佛 | Bhaiṣajyaguru | भैषज्यगुरु — 鞞沙闍耶 nhắc Dược Sư chữa gốc bệnh vô minh bằng ánh sáng chánh kiến.
+72. Câu lô phệ trụ rị da # 琉璃光 | Vaiḍūrya-prabhā | वैडूर्य-प्रभा — 俱嚧吠柱唎耶 nhắc lưu ly quang là tâm trong suốt, thấy khổ mà không bị khổ nhuộm.
+73. 🙏 Bác ra bà ra xà da # 大威德 | Mahātejas | महातेजस् — 般囉婆囉闍耶 nhắc uy đức lớn là làm chúng sinh an, không phải khiến người sợ.
+74. Ða tha dà đa da. # 如來 | Tathāgata | तथागत — 跢多他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+75. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+76. Tam bổ sư bí đa # 三導師力 | Triguru-bala | त्रिगुरु-बल — 三補師毖多 nhắc ba lực dẫn đường là tín, nguyện, hành: tin sâu, nguyện rộng, đi bền.
+77. Tát lân nại ra lặc xà da # 忍德攝伏 | Kṣānti-guṇa | क्षान्ति-गुण — 薩憐捺囉剌闍耶 nhắc nhẫn đức nhiếp phục sân hận; nhẫn không yếu, nhẫn là sức của trí tuệ.
+78. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢多他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+79. A ra ha đế # 阿羅漢 | Arhat | अर्हत् — 阿囉訶帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+80. Tam-miệu tam bồ đà da # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀耶 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+81. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+82. Xá kê dã mẫu na duệ # 釋迦佛 | Śākyamuni | शाक्यमुनि — 舍雞野母那曳 nhắc Phật Thích Ca chỉ bày ngay nơi cõi Ta-bà vẫn có đường thành Phật.
+83. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+84. A ra ha đế # 阿羅漢 | Arhat | अर्हत् — 阿囉訶帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+85. 🙏 Tam-miệu tam bồ đà da # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀耶 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+86. Nam-mô bà dà bà đế # 世尊 | Bhagavān | भगवान् — 南無婆伽婆帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+87. Lặc đát na kê đô ra xà da # 寶王 | Ratnarāja | रत्नराज — 剌怛那雞都囉闍耶 nhắc bảo vương là vua của tự tâm: biết đủ, biết sáng, biết thương.
+88. Ða tha dà đa da # 如來 | Tathāgata | तथागत — 跢多他伽多耶 nhắc tôi trở về Như Lai tạng: mọi tướng đến đi, còn chân tâm thì lặng sáng.
+89. A ra ha đế # 阿羅漢 | Arhat | अर्हत् — 阿囉訶帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+90. Tam-miệu tam bồ đà da # 正覺 | Samyakbodhi | सम्यक्बोधि — 三藐三菩陀耶 nhắc chánh giác là thấy vọng không thật, rồi trở về tâm biết bất diệt.
+91. Ðế biều # 帝瓢 | Devatā | देवता — 帝瓢 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+92. Nam-mô tát yết rị đa # 成就 | Siddhi | सिद्धि — 南無悉羯唎多 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+93. Ế đàm bà dà bà đa # 此世尊 | Ayaṃ Bhagavān | अयं भगवान् — 翳曇婆伽婆多 nhắc ngay nơi hiện tiền này hãy thấy Phật pháp, không đợi một cảnh xa xôi.
+94. Tát đác tha dà đô sắc ni sam # 佛頂 | Buddhoṣṇīṣa | बुद्धोष्णीष — 薩怛他伽都瑟尼釤 gợi lời Lăng Nghiêm: quay về tánh thấy sáng trong, đừng chạy theo trần cảnh.
+95. Tát đác đa bát đác lam # 白傘蓋 | Sitātapatra | सितातपत्र — 薩怛多般怛㘕 nhắc lọng trắng che tâm khỏi tà kiến, giúp người tu đứng vững giữa ma sự.
+96. Nam-mô a bà ra thị đam # 歸命 | Śaraṇāgati | शरणागति — 南無阿婆囉視耽 nhắc quy mạng là trao thân tâm về chánh pháp, không giao cho sợ hãi.
+97. 🙏 Bác ra đế # 世尊 | Bhagavān | भगवान् — 般囉帝 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+98. Dương kỳ ra # 放光 | Prabhā | प्रभा — 楊岐囉 nhắc ánh sáng thật phát ra khi tâm không còn che giấu vô minh.
+99. Tát ra bà # 一切 | Sarva | सर्व — 薩囉婆 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+100. Bộ đa yết ra ha # 降伏 | Abhibhava | अभिभव — 部多揭囉訶 nhắc hàng phục không phải đánh bên ngoài, mà là thu phục vô minh trong tâm.
+101. Ni yết ra ha # 不亂 | Avikṣepa | अविक्षेप — 尼揭囉訶 nhắc không loạn là nhìn cảnh như huyễn mà không đánh mất lòng từ.
+102. Yết ca ra ha ni # 攝持 | Grahaṇa | ग्रहण — 揭迦囉訶尼 nhắc nhiếp trì là giữ tâm không tán, để tà niệm không có chỗ chen vào.
+103. Bạt ra bí địa da # 破無明 | Avidyā-bheda | अविद्या-भेद — 跋囉毖地耶 nhắc phá vô minh là thấy rõ vọng tưởng không phải mình.
+104. Sất đà nể # 圓滿 | Paripūrṇa | परिपूर्ण — 叱陀你 nhắc viên mãn không phải đủ mọi thứ, mà là tâm biết trở về trong từng niệm.
+105. A ca ra # 不動 | Acala | अचल — 阿迦囉 nhắc bất động là nhận ra tánh thấy không lay dù cảnh đến đi.
+106. Mật rị trụ # 無畏 | Abhaya | अभय — 蜜唎柱 nhắc vô úy sinh từ chánh kiến: biết các pháp như huyễn nên không bị dọa nạt.
+107. Bát rị đác ra da # 吉祥 | Maṅgala | मङ्गल — 般唎怛囉耶 nhắc cát tường đến từ tâm lành, lời lành và hạnh lành mỗi ngày.
+108. Nảnh yết rị # 堅固 | Dṛḍha | दृढ — 儜揭唎 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+109. 🙏 Tát ra bà # 一切 | Sarva | सर्व — 薩囉婆 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+110. Bàn đà na # 繫縛 | Bandhana | बन्धन — 般陀那 nhắc thấy dây trói là đã bắt đầu tháo; chấp trước rỗng nên có thể buông.
+111. Mục xoa ni # 解脫 | Mokṣa | मोक्ष — 目叉尼 nhắc giải thoát là không còn để vọng tưởng giam giữ chân tâm.
+112. Tát ra bà # 一切 | Sarva | सर्व — 薩囉婆 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+113. Ðột sắc tra # 摧破 | Bheda | भेद — 突瑟吒 nhắc tồi phá là phá gốc mê, không phá lòng thương.
+114. Ðột tất phạp # 速成 | Kṣipra-siddhi | क्षिप्र-सिद्धि — 突悉乏 nhắc thành tựu nhanh nhất là quay đầu ngay khi biết mình lạc.
+115. Bát na nể # 守護 | Rakṣā | रक्षा — 般那你 nhắc hộ trì là giữ mình trong giới định tuệ để có sức che chở chúng sinh.
+116. Phạt ra ni # 清淨 | Viśuddhi | विशुद्धि — 伐囉尼 nhắc thanh tịnh là buông tà niệm, để chân tâm tự sáng như gương.
+117. Giả đô ra # 堅固 | Dṛḍha | दृढ — 赭都囉 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+118. Thất đế nẩm # 真諦 | Paramārtha | परमार्थ — 失帝喃 nhắc chân đế là thấy tính không mà vẫn bước vào đời cứu khổ.
+119. Yết ra ha # 攝護 | Parigraha-rakṣā | परिग्रह-रक्षा — 揭囉訶 nhắc nhiếp hộ là gom tâm về chánh niệm, không để ma cảnh kéo đi.
+120. Ta ha tát ra nhã xà # 千眼王 | Sahasranetra-rāja | सहस्रनेत्र-राज — 娑訶薩囉若闍 nhắc ngàn mắt là trí tuệ nhìn khắp khổ đau để thương khắp chúng sinh.
+121. 🙏 Tỳ đa băng ta na yết rị # 降伏 | Abhibhava | अभिभव — 毗多崩娑那揭唎 nhắc hàng phục không phải đánh bên ngoài, mà là thu phục vô minh trong tâm.
+122. A sắc tra băng xá đế nẩm # 八部 | Aṣṭasenā | अष्टसेना — 阿瑟吒崩舍帝喃 nhắc tám bộ hộ pháp cũng quy về một việc: giữ người tu không rời chánh đạo.
+123. Na xoa sát đác ra nhã xà # 夜叉王 | Yakṣarāja | यक्षराज — 那叉刹怛囉若闍 nhắc lực dữ chỉ thật sự phục khi gặp tâm sáng, định vững và lòng từ.
+124. Ba ra tát đà na yết rị # 守護 | Rakṣā | रक्षा — 波囉娑陀那揭唎 nhắc hộ trì là giữ mình trong giới định tuệ để có sức che chở chúng sinh.
+125. A sắc tra nẩm # 八眾 | Aṣṭagaṇa | अष्टगण — 阿瑟吒喃 nhắc các chúng hộ trì người giữ pháp, nhưng gốc vẫn là tự tâm thanh tịnh.
+126. Ma ha yết ra ha nhã xà # 大鬼王 | Mahābhūtarāja | महाभूतराज — 摩訶揭囉訶若闍 nhắc quỷ vương cũng là cảnh thử tâm: thấy sợ mà không quên chánh niệm.
+127. Tỳ đa băng tát na yết rị # 攝伏 | Vaśīkaraṇa | वशीकरण — 毗多崩薩那揭唎 nhắc nhiếp phục là làm yên loạn động bằng định lực và từ bi.
+128. Tát bà xá đô lô # 普攝 | Sarvasaṃgraha | सर्वसंग्रह — 薩婆舍都嚧 nhắc phổ nhiếp là ôm cả điều khó thương vào ánh sáng hiểu biết.
+129. Nể bà ra nhã xà # 守護王 | Rakṣārāja | रक्षाराज — 你婆囉若闍 nhắc hộ trì vương là sức giữ đạo mạnh hơn sức của sợ hãi.
+130. Hô lam đột tất phạp # 摧破 | Bheda | भेद — 呼藍突悉乏 nhắc tồi phá là phá gốc mê, không phá lòng thương.
+131. Nan giá na xá ni # 障礙 | Vighna | विघ्न — 難迦那舍尼 nhắc chướng ngại là bài học giúp tôi thấy rõ chỗ còn chấp.
+132. Bí sa xá # 鬼神 | Bhūtadeva | भूतदेव — 毖沙舍 nhắc quỷ thần ngoài tâm không đáng sợ bằng vọng niệm chưa được soi sáng.
+133. 🙏 Tất đác ra # 真實 | Tattva | तत्त्व — 悉怛多 nhắc chân thật là quay về điều đang biết sáng, không thêm bóng tưởng.
+134. A kiết ni # 火 | Agni | अग्नि — 阿揭尼 nhắc lửa sân phải được chuyển thành lửa tinh tấn và ánh sáng tuệ.
+135. Ô đà ca ra nhã xà # 水王 | Varuṇa | वरुण — 烏陀迦囉若闍 nhắc nước mềm mà thắng cứng; người tu lấy nhu hòa thắng phiền não.
+136. A bát ra thị đa câu ra # 不動 | Acala | अचल — 阿婆囉視多俱囉 nhắc bất động là nhận ra tánh thấy không lay dù cảnh đến đi.
+137. Ma ha bác ra chiến trì # 大力 | Mahābala | महाबल — 摩訶跋囉戰持 nhắc đại lực là sức bền của tâm không bỏ đạo và không bỏ chúng sinh.
+138. Ma ha điệp đa # 大光 | Mahāprabhā | महाप्रभा — 摩訶疊多 nhắc đại quang là ánh sáng trí tuệ soi cả nơi mình từng né tránh.
+139. Ma ha đế xà # 大威 | Mahātejas | महातेजस् — 摩訶帝闍 nhắc đại uy là sức nghiêm của chánh pháp, khiến tà niệm không dám lấn.
+140. Ma ha thuế đa xà bà ra # 大白 | Mahāśveta | महाश्वेत — 摩訶稅多闍婆囉 nhắc đại bạch là tâm trong sạch, không để bóng tối bám vào.
+141. Ma ha bạt ra bàn đà ra # 大護 | Mahārakṣā | महारक्षा — 摩訶跋囉般陀囉 nhắc đại hộ là giới đức che chở mình trước khi che chở người.
+142. Bà tất nể # 清淨 | Viśuddhi | विशुद्धि — 婆悉儞 nhắc thanh tịnh là buông tà niệm, để chân tâm tự sáng như gương.
+143. A rị da đa ra # 聖者 | Ārya | आर्य — 阿唎耶多囉 nhắc bậc thánh khởi đầu từ một niệm biết quay về và sửa mình.
+144. Tỳ rị câu tri # 智慧 | Vidyā | विद्या — 毗唎俱知 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+145. 🙏 Thệ bà tỳ xà da # 勝利 | Jaya | जय — 誓婆毗闍耶 nhắc thắng lợi là thắng vô minh trong tâm, không phải thắng người khác.
+146. Bạt xà ra ma lễ để # 金剛 | Vajra | वज्र — 跋闍囉摩禮㡳 nhắc Kim Cang là trí tuệ cứng chắc phá tà mà không làm mất từ bi.
+147. Tỳ xá lô đa # 廣大 | Viśāla | विशाल — 毗舍嚧多 nhắc rộng lớn là thấy tính không nên lòng không còn hẹp.
+148. Bột đằng dõng ca # 勇猛 | Vīrya | वीर्य — 勃騰勇迦 nhắc dũng mãnh là dám nhìn thẳng vọng tâm và quay về tánh giác.
+149. Bạt xà ra chế hắt na a giá # 金剛王 | Vajrarāja | वज्रराज — 跋闍囉制訶那阿遮 nhắc Kim Cang vương là tâm làm chủ mình, không để tà kiến cai trị.
+150. Ma ra chế bà # 破魔 | Māra-bheda | मार-भेद — 摩囉制婆 nhắc phá ma là phá tiếng nói khiến mình xa chân tâm và xa chúng sinh.
+151. Bát ra chất đa # 勇士 | Vīra | वीर — 般囉質多 nhắc dũng sĩ là người dám tu ngay nơi sợ hãi.
+152. Bạt xà ra thiện trì # 金剛護 | Vajra-rakṣā | वज्र-रक्षा — 跋闍囉擅持 nhắc Kim Cang hộ là chánh niệm bền chắc bảo vệ tâm lành.
+153. Tỳ xá ra giá # 威德 | Tejas | तेजस् — 毗舍囉遮 nhắc uy đức là ánh sáng khiến người an, không phải bóng khiến người sợ.
+154. Phiến đa xá # 遍照 | Samantaprabhā | समन्तप्रभा — 扇多舍 nhắc biến chiếu là soi khắp thân tâm, không để góc tối nào bị bỏ quên.
+155. Bệ để bà # 光明 | Prabhā | प्रभा — 鞞提婆 nhắc quang minh là tánh biết sẵn có, bị che chứ chưa từng mất.
+156. Bổ thị đa # 成就 | Siddhi | सिद्धि — 補視多 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+157. 🙏 Tô ma lô ba # 清涼 | Śītala | शीतल — 蘇摩嚧波 nhắc thanh lương là khi lửa sân tắt, tính không hiện như gió mát.
+158. Ma ha thuế đa # 大白 | Mahāśveta | महाश्वेत — 摩訶稅多 nhắc đại bạch là tâm trong sạch, không để bóng tối bám vào.
+159. A rị da đa ra # 聖者 | Ārya | आर्य — 阿唎耶多囉 nhắc bậc thánh khởi đầu từ một niệm biết quay về và sửa mình.
+160. Ma ha bà ra a bác ra # 大力 | Mahābala | महाबल — 摩訶跋囉阿般囉 nhắc đại lực là sức bền của tâm không bỏ đạo và không bỏ chúng sinh.
+161. Bạt xà ra thương yết ra chế bà # 金剛鎧 | Vajra-kavaca | वज्र-कवच — 跋闍囉商羯囉制婆 nhắc áo giáp Kim Cang là giới định tuệ giữ tâm khỏi độc tà.
+162. Bạt xà ra câu ma rị # 金剛女 | Vajra-kumārī | वज्र-कुमारी — 跋闍囉俱摩唎 nhắc Kim Cang nữ là sức mềm lành nhưng không bị vô minh bẻ gãy.
+163. Câu lam đà rị # 持地 | Dharaṇī-dhāra | धरणी-धार — 俱藍陀唎 nhắc giữ đất là giữ nền tâm, để mọi hạnh lành có chỗ mọc.
+164. Bạt xà ra hắt tát đa giá # 金剛手 | Vajrapāṇi | वज्रपाणि — 跋闍囉喝薩多遮 nhắc Kim Cang Thủ là hành động mạnh mẽ để bảo vệ chánh pháp và chúng sinh.
+165. Tỳ địa da # 智慧 | Vidyā | विद्या — 毗地耶 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+166. Kiền dá na # 香 | Gandha | गन्ध — 乾遮那 nhắc hương lành của giới đức lan xa hơn lời nói.
+167. Ma rị ca # 花 | Puṣpa | पुष्प — 摩唎迦 nhắc hoa tâm nở khi tôi buông oán và nuôi lòng từ.
+168. Khuất tô mẫu # 乳 | Kṣīra | क्षीर — 啒蘇母 nhắc sữa pháp nuôi lớn căn lành, làm mềm lại phần khô cứng trong tim.
+169. 🙏 Bà yết ra đá na # 守護 | Rakṣā | रक्षा — 跋羯囉跢那 nhắc hộ trì là giữ mình trong giới định tuệ để có sức che chở chúng sinh.
+170. Bệ lô giá na # 毘盧佛 | Vairocana | वैरोचन — 鞞嚧遮那 nhắc Tỳ Lô là ánh sáng khắp pháp giới, nơi nào cũng có cửa quay về.
+171. Câu rị da # 行 | Caryā | चर्या — 俱唎耶 nhắc tu không chỉ hiểu, mà phải bước thành hành động hiền thiện.
+172. Dạ ra thố # 夜行 | Rātricaryā | रात्रिचर्या — 夜囉菟 nhắc đi trong đêm phải giữ đèn tâm, không để tà niệm dẫn đường.
+173. Sắc ni sam # 頂相 | Uṣṇīṣa | उष्णीष — 瑟尼釤 nhắc đỉnh tướng là hướng thượng: nhìn lên trí tuệ thay vì cúi theo dục vọng.
+174. Tỳ chiếc lam bà ma ni giá. # 如意寶 | Cintāmaṇi | चिन्तामणि — 毗折藍婆摩尼遮 nhắc như ý bảo là viên ngọc tâm: bớt cầu ngoài, sáng bên trong.
+175. Bạt xà ra ca na ca ba ra bà. # 金剛寶 | Vajraratna | वज्ररत्न — 跋闍囉迦那迦波囉婆 nhắc Kim Cang bảo là châu báu của chánh niệm không bị cảnh phá.
+176. Lồ xà na # 盧舍那 | Rocana | रोचन — 嚧遮那 nhắc Lô Xá Na là ánh sáng pháp thân soi hết mọi che đậy.
+177. Bạt xà ra đốn trỉ giá # 金剛幢 | Vajradhvaja | वज्रध्वज — 跋闍囉頓稚遮 nhắc tràng Kim Cang là nguyện tu không ngã trước gió nghiệp.
+178. Thuế đa giá # 白色 | Śveta | श्वेत — 稅多遮 nhắc sắc trắng là tâm trong sạch, biết sám hối và làm mới.
+179. Ca ma ra # 行 | Caryā | चर्या — 迦摩囉 nhắc tu không chỉ hiểu, mà phải bước thành hành động hiền thiện.
+180. Sát sa thi # 剎那 | Kṣaṇa | क्षण — 剎那尸 nhắc một sát-na tỉnh thức cũng đủ xoay hướng cả đời.
+181. 🙏 Ba ra bà. # 圓滿 | Paripūrṇa | परिपूर्ण — 般囉婆 nhắc viên mãn không phải đủ mọi thứ, mà là tâm biết trở về trong từng niệm.
+182. Ế đế di đế # 真實 | Tattva | तत्त्व — 翳帝夷帝 nhắc chân thật là quay về điều đang biết sáng, không thêm bóng tưởng.
+183. Mẫu đà ra # 印 | Mudrā | मुद्रा — 母陀囉 nhắc ấn là dấu niêm của tâm nguyện: đã phát tâm thì phải giữ.
+184. Yết noa. # 結 | Bandha | बन्ध — 羯拏 nhắc kết lại là gom tâm không tản, để chánh niệm thành sức.
+185. Ta bệ ra sám # 懺悔 | Kṣamā | क्षमा — 娑鞞囉懺 nhắc sám hối là can đảm nhìn lỗi và mở đường trở về chân tâm.
+186. Quật phạm đô # 除障 | Vighna-nivāraṇa | विघ्न-निवारण — 掘梵都 nhắc trừ chướng là dọn sạch tà niệm để lòng từ đi qua.
+187. Ấn thố na mạ mạ tỏa. # 成就 | Siddhi | सिद्धि — 印菟那摩摩寫 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+188. @@ Ô hồng # 唵 | Oṃ | ओं — 烏吽 là tiếng mở cửa: gom thân khẩu ý về một niệm tỉnh sáng.
+189. Rị sắc yết noa # 降伏 | Abhibhava | अभिभव — 唎瑟揭拏 nhắc hàng phục không phải đánh bên ngoài, mà là thu phục vô minh trong tâm.
+190. Bác lặc xá tất đa # 破障 | Vighna-bheda | विघ्न-भेद — 般剌舍悉多 nhắc phá chướng là phá chấp trước che chân tâm, để trí tuệ hiện ra.
+191. Tát đác tha # 真實 | Tattva | तत्त्व — 薩怛他 nhắc chân thật là quay về điều đang biết sáng, không thêm bóng tưởng.
+192. Già đô sắc ni sam # 佛頂 | Buddhoṣṇīṣa | बुद्धोष्णीष — 伽都瑟尼釤 gợi lời Lăng Nghiêm: quay về tánh thấy sáng trong, đừng chạy theo trần cảnh.
+193. 🙏 Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+194. Chiêm bà na # 制伏 | Nigraha | निग्रह — 瞻婆那 nhắc chế phục là giữ mình trước cơn bốc đồng, không để ma tâm sai khiến.
+195. Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+196. Tất đam bà na # 安定 | Sthiratā | स्थिरता — 悉耽婆那 nhắc an định là đất yên cho trí tuệ mọc lên.
+197. Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+198. Ba ra sắc địa da # 成就 | Siddhi | सिद्धि — 波囉瑟地耶 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+199. Tam bác xoa # 三界 | Triloka | त्रिलोक — 三般叉 nhắc ba cõi đều như mộng; người tu phải tỉnh trong mộng.
+200. Noa yết ra # 城護 | Nagara-rakṣā | नगर-रक्षा — 拏羯囉 nhắc hộ thành là giữ cửa mắt tai ý khỏi cảnh tà.
+201. Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+202. Tát bà dược xoa # 一切藥叉 | Sarva-yakṣa | सर्व-यक्ष — 薩婆藥叉 nhắc mọi lực dữ đều được soi bằng định và chuyển bằng từ.
+203. Hắt ra sát ta # 夜叉 | Yakṣa | यक्ष — 喝囉剎多 nhắc dạ xoa là hình ảnh của lực hung cần được hàng phục bằng pháp.
+204. Yết ra ha nhã xà # 鬼王 | Bhūtarāja | भूतराज — 揭囉訶若叉 nhắc quỷ vương cũng không vượt được tâm có chánh niệm.
+205. 🙏 Tỳ đằng băng tát na yết ra # 摧破 | Bheda | भेद — 毗騰崩薩那羯囉 nhắc tồi phá là phá gốc mê, không phá lòng thương.
+206. Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+207. Giả đô ra # 堅固 | Dṛḍha | दृढ — 者都囉 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+208. Thi để nẩm # 真諦 | Paramārtha | परमार्थ — 尸帝喃 nhắc chân đế là thấy tính không mà vẫn bước vào đời cứu khổ.
+209. Yết ra ha # 攝持 | Grahaṇa | ग्रहण — 揭囉訶 nhắc nhiếp trì là giữ tâm không tán, để tà niệm không có chỗ chen vào.
+210. Ta ha tát ra nẩm # 千數 | Sahasra | सहस्र — 娑訶薩囉喃 nhắc ngàn lần hộ trì bắt đầu từ một niệm tự giữ mình.
+211. Tỳ đằng băng tát na ra # 摧伏 | Abhibhava | अभिभव — 毗騰崩薩那囉 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+212. Hổ hồng đô lô ung # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽都嚧雍 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+213. Ra xoa # 羅剎 | Rākṣasa | राक्षस — 羅剎 nhắc La-sát trong tâm là cơn dữ cần được nhìn thấy và chuyển hóa.
+214. Bà già phạm # 世尊 | Bhagavān | भगवान् — 婆伽梵 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+215. Tát đác tha # 真實 | Tattva | तत्त्व — 薩怛他 nhắc chân thật là quay về điều đang biết sáng, không thêm bóng tưởng.
+216. Già đô sắc ni sam # 佛頂 | Buddhoṣṇīṣa | बुद्धोष्णीष — 伽都烏瑟膩釤 gợi lời Lăng Nghiêm: quay về tánh thấy sáng trong, đừng chạy theo trần cảnh.
+217. 🙏 Ba ra điểm # 光明 | Prabhā | प्रभा — 波囉點 nhắc quang minh là tánh biết sẵn có, bị che chứ chưa từng mất.
+218. Xà kiết rị # 勇猛 | Vīrya | वीर्य — 闍吉利 nhắc dũng mãnh là dám nhìn thẳng vọng tâm và quay về tánh giác.
+219. Ma ha ta ha tát ra # 大威力 | Mahābala | महाबल — 摩訶娑訶薩囉 nhắc đại uy lực là sức của chánh niệm: phá mê mà không mất lòng từ.
+220. Bột thọ ta ha tát ra # 大菩薩 | Mahābodhisattva | महाबोधिसत्त्व — 勃樹娑訶薩囉 nhắc đại Bồ Tát là người ôm khổ của đời mà không rời tánh không.
+221. Thất rị sa # 吉祥 | Maṅgala | मङ्गल — 室利沙 nhắc cát tường đến từ tâm lành, lời lành và hạnh lành mỗi ngày.
+222. Câu tri ta ha tát nê # 無量 | Apramāṇa | अप्रमाण — 俱知娑訶薩泥 mở tâm vô lượng: tính không không ngăn lòng thương, mà làm lòng thương không bờ.
+223. Đế lệ a tệ đề thị bà rị đa # 護持 | Pālana | पालन — 帝隸阿弊提視婆利多 nhắc hộ trì là giữ giới, giữ tâm, rồi đem sự an ổn ấy che chở chúng sinh.
+224. Tra tra anh ca # 震動 | Kampana | कम्पन — 吒吒甖迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+225. Ma ha bạt xà lô đà ra # 大金剛 | Mahāvajra | महावज्र — 摩訶跋闍盧陀囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+226. Đế rị bồ bà na # 三界 | Triloka | त्रिलोक — 帝唎菩婆那 nhắc ba cõi đều như mộng; người tu phải tỉnh trong mộng.
+227. Man trà ra # 道場 | Maṇḍala | मण्डल — 曼茶囉 nhắc đạo tràng thật là nơi tâm chịu học, chịu sửa và chịu thương.
+228. Ô hồng # 本源 | Mūla | मूल — 烏吽 nhắc bản nguyên là chân tâm trước mọi lớp sợ hãi và vọng tưởng.
+229. 🙏 Ta tất đế # 成就 | Siddhi | सिद्धि — 莎悉帝 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+230. Bạt bà đô # 圓滿 | Paripūrṇa | परिपूर्ण — 薄婆都 nhắc viên mãn không phải đủ mọi thứ, mà là tâm biết trở về trong từng niệm.
+231. Mạ mạ # 自身 | Ātman | आत्मन् — 麼麼 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+232. Ấn thố na mạ mạ tỏa # 成就吉祥 | Siddhi-maṅgala | सिद्धि-मङ्गल — 印菟那麼麼寫 nhắc thành tựu cát tường là thân tâm cùng quay về chánh pháp.
+233. @@@ Ra xà bà dạ # 國王難 | Rāja-bhaya | राज-भय — 囉闍婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+234. Chủ ra bạt dạ # 王災 | Rāja-upadrava | राज-उपद्रव — 主囉跋夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+235. A kỳ ni bà dạ # 火難 | Agni-bhaya | अग्नि-भय — 阿祇尼婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+236. Ô đà ca bà dạ # 水難 | Udaka-bhaya | उदक-भय — 烏陀迦婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+237. Tỳ xa bà dạ # 毒害 | Viṣa | विष — 毗舍婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+238. Xá tát đa ra bà dạ # 兵刃難 | Śastra-bhaya | शस्त्र-भय — 舍薩多囉婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+239. Bà ra chước yết ra bà dạ # 雷電難 | Vidyut-bhaya | विद्युत्-भय — 婆囉斫羯囉婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+240. Ðột sắc xoa bà dạ # 惡獸難 | Mṛga-bhaya | मृग-भय — 突瑟叉婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+241. 🙏 A xá nể bà dạ # 非時死 | Akālamṛtyu | अकालमृत्यु — 阿舍你婆夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+242. A ca ra # 不動 | Acala | अचल — 阿迦囉 nhắc bất động là nhận ra tánh thấy không lay dù cảnh đến đi.
+243. Mật rị trụ bà dạ # 免死 | Mṛtyu-mokṣa | मृत्यु-मोक्ष — 蜜唎柱婆夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+244. Ðà ra nị bộ di kiếm # 大地震 | Mahābhūmikampa | महाभूमिकम्प — 陀囉尼部彌劍 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+245. Ba già ba đà bà dạ # 山崩 | Parvata-pāta | पर्वत-पात — 波伽跋陀婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+246. Ô ra ca bà đa bà dạ # 暴風 | Vāta-bhaya | वात-भय — 烏囉迦婆多婆夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+247. Lặc xà đàn trà bà dạ # 瘟疫 | Vyādhi | व्याधि — 剌闍檀闍婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+248. Na dà bà dạ # 龍難 | Nāga-bhaya | नाग-भय — 那伽婆夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+249. Tỳ điều đát bà dạ # 鬼魅 | Bhūta-preta | भूत-प्रेत — 毗條怛婆夜 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+250. Tô ba ra noa bà dạ # 鳥怪 | Pakṣi-bhaya | पक्षि-भय — 蘇波囉拏婆夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+251. Dược xoa yết ra ha # 夜叉執 | Yakṣa-graha | यक्ष-ग्रह — 藥叉揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+252. Ra xoa tư yết ra ha # 羅剎執 | Rākṣasa-graha | राक्षस-ग्रह — 囉叉私揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+253. 🙏 Tất rị đa yết ra ha # 餓鬼執 | Preta-graha | प्रेत-ग्रह — 畢利多揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+254. Tỳ xá giá yết ra ha # 毘舍遮執 | Piśāca-graha | पिशाच-ग्रह — 毗舍遮揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+255. Bô đa yết ra ha # 部多鬼 | Bhūta | भूत — 部多揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+256. Cưu bàn trà yết ra ha # 鳩槃荼 | Kumbhāṇḍa | कुम्भाण्ड — 鳩槃荼揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+257. Bổ đơn na yết ra ha # 富單那 | Pūtana | पूतन — 補丹那揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+258. Ca tra bổ đơn na yết ra ha # 迦吒富單那 | Kaṭapūtana | कटपूतन — 迦吒補丹那揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+259. Tất kiền độ yết ra ha # 乾闥婆 | Gandharva | गन्धर्व — 悉乾度囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+260. A bá tất ma ra yết ra ha # 癲狂鬼 | Apasmāra-graha | अपस्मार-ग्रह — 阿播悉摩囉揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+261. Ô đàn ma đà yết ra ha # 狂亂鬼 | Unmāda-graha | उन्माद-ग्रह — 烏檀摩陀揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+262. Xa dạ yết ra ha # 夜魅 | Rātri-graha | रात्रि-ग्रह — 車夜揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+263. Hê rị bà đế yết ra ha # 毒鬼 | Viṣa-graha | विष-ग्रह — 醯唎婆帝揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+264. Xả đa ha rị nẩm # 奪精氣 | Ojas-haraṇa | ओजस्-हरण — 社多訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+265. 🙏 Yết bà ha rị nẩm # 奪胎 | Garbha-haraṇa | गर्भ-हरण — 揭婆訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+266. Lô địa ra ha rị nẩm # 奪血 | Rakta-haraṇa | रक्त-हरण — 嚧地囉訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+267. Mang ta ha rị nẩm # 奪肉 | Māṃsa-haraṇa | मांस-हरण — 忙娑訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+268. Mê đà ha rị nẩm # 奪脂 | Meda-haraṇa | मेद-हरण — 謎陀訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+269. Ma xà ha rị nẩm # 奪髓 | Majjā-haraṇa | मज्जा-हरण — 摩闍訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+270. Xà đa ha rị nữ # 奪命 | Prāṇa-haraṇa | प्राण-हरण — 闍多訶利女 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+271. Thị tỷ đa ha rị nẩm # 奪識 | Vijñāna-haraṇa | विज्ञान-हरण — 視比多訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+272. Tỳ đa ha rị nẩm # 奪氣 | Prāṇa-haraṇa | प्राण-हरण — 毗多訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+273. Bà đa ha rị nẩm # 奪力 | Bala-haraṇa | बल-हरण — 婆多訶唎喃 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+274. A du giá ha rị nữ # 奪壽 | Āyuḥ-haraṇa | आयुः-हरण — 阿瑜遮訶利女 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+275. Chất đa ha rị nữ # 奪心 | Citta-haraṇa | चित्त-हरण — 質多訶利女 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+276. Ðế sam tát bệ sam # 彼等一切 | Te sarve | ते सर्वे — 帝釤薩鞞釤 nhắc tất cả pháp đều rỗng rang, nhưng lòng từ với chúng sinh không được rỗng mất.
+277. 🙏 Tát bà yết ra ha nẩm # 一切執著 | Sarva-graha | सर्व-ग्रह — 薩婆揭囉訶喃 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+278. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+279. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+280. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+281. Ba rị bạt ra giả ca # 遍斷 | Pariccheda | परिच्छेद — 波利跋囉闍迦 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+282. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+283. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+284. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+285. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+286. Trà diễn ni # 燒盡 | Dahana | दहन — 茶演尼 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+287. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+288. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+289. 🙏 Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+290. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+291. Ma ha bát du bát đác dạ # 大怖畏 | Mahābhaya | महाभय — 摩訶般輸般怛夜 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+292. Lô đà ra # 大自在 | Maheśvara | महेश्वर — 嚧陀囉 nhắc đại tự tại là không bị cảnh sai sử, vì đã nhận ra tâm không sinh diệt.
+293. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+294. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+295. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+296. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+297. Na ra dạ noa # 大力天 | Mahābaladeva | महाबलदेव — 那囉夜拏 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+298. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+299. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+300. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+301. 🙏 Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+302. Ðát đỏa dà lô trà tây # 金翅鳥 | Garuḍa | गरुड — 怛埵伽嚧茶西 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+303. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+304. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+305. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+306. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+307. Ma ha ca ra # 大黑天 | Mahākāla | महाकाल — 摩訶迦囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+308. Ma đác rị già noa # 天母 | Devamātṛ | देवमातृ — 摩怛唎伽拏 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+309. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+310. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+311. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+312. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+313. 🙏 Ca ba rị ca # 護法 | Dharmapāla | धर्मपाल — 迦婆唎迦 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+314. Hất rị đởm # 心咒 | Hṛdaya-mantra | हृदय-मन्त्र — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+315. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+316. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+317. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+318. Xà dạ yết ra # 勝利 | Jaya | जय — 闍夜羯囉 nhắc thắng lợi là thắng vô minh trong tâm, không phải thắng người khác.
+319. Ma độ yết ra # 破魔 | Māra-bheda | मार-भेद — 摩度羯囉 nhắc phá ma là phá tiếng nói khiến mình xa chân tâm và xa chúng sinh.
+320. Tát bà ra tha ta đạt na # 一切成就 | Sarvārthasiddhi | सर्वार्थसिद्धि — 薩婆囉他薩達那 nhắc tất cả pháp đều rỗng rang, nhưng lòng từ với chúng sinh không được rỗng mất.
+321. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+322. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+323. Sân dà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+324. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+325. 🙏 Giả đốt ra # 堅固 | Dṛḍha | दृढ — 赭咄囉 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+326. Bà kỳ nể # 吉祥 | Maṅgala | मङ्गल — 婆耆你 nhắc cát tường đến từ tâm lành, lời lành và hạnh lành mỗi ngày.
+327. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+328. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+329. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+330. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+331. Tỳ rị dương hất rị tri # 勇力 | Vīrya-bala | वीर्य-बल — 毗唎羊訖唎知 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+332. Nan đà kê sa ra # 吉祥 | Maṅgala | मङ्गल — 難陀雞沙囉 nhắc cát tường đến từ tâm lành, lời lành và hạnh lành mỗi ngày.
+333. Dà noa bác đế # 智慧主 | Vidyāpati | विद्यापति — 伽拏鉢帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+334. Sách hê dạ # 正行 | Samyak-caryā | सम्यक्-चर्या — 索醯夜 nhắc chánh hành là đem tính không vào từng việc nhỏ: bớt chấp, thêm thương.
+335. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+336. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+337. 🙏 Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+338. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+339. Na yết na xá ra bà noa # 破邪 | Mithyā-bheda | मिथ्या-भेद — 那揭那舍囉婆拏 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+340. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+341. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+342. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+343. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+344. A-la-hán # 阿羅漢 | Arhat | अर्हत् — 阿羅漢 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+345. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+346. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+347. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+348. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+349. 🙏 Tỳ đa ra dà # 離欲 | Virāga | विराग — 毗多囉伽 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+350. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+351. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+352. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+353. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+354. Bạt xà ra ba nể # 金剛手 | Vajrapāṇi | वज्रपाणि — 跋闍囉波你 nhắc Kim Cang Thủ là hành động mạnh mẽ để bảo vệ chánh pháp và chúng sinh.
+355. Câu hê dạ câu hê dạ # 速速 | Kṣipra-kṣipra | क्षिप्र-क्षिप्र — 具醯夜具醯夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+356. Ca địa bát đế # 護主 | Rakṣāpati | रक्षापति — 迦地鉢帝 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+357. Hất rị đởm # 心印 | Hṛdaya-mudrā | हृदय-मुद्रा — 訖唎擔 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+358. Tỳ đà dạ xà # 破除 | Bheda | भेद — 毗陀夜闍 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+359. Sân đà dạ di # 摧伏 | Abhibhava | अभिभव — 瞋陀夜彌 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+360. Kê ra dạ di # 消滅 | Kīlana | कीलन — 雞囉夜彌 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+361. 🙏 Ra xoa vỏng # 羅剎王 | Rākṣasarāja | राक्षसराज — 囉叉罔 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+362. Bà dà phạm # 世尊 | Bhagavān | भगवान् — 婆伽梵 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+363. Ấn thố na mạ mạ tỏa # 圓滿成就 | Paripūrṇa-siddhi | परिपूर्ण-सिद्धि — 印兔那麼麼寫 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+364. @@@@ Bà dà phạm # 世尊 | Bhagavān | भगवान् — 婆伽梵 nhắc nương Thế Tôn là nương tánh giác nơi chính mình, bỏ tà về chánh.
+365. Tát đác đa bát đác ra # 大白傘蓋 | Mahāsitātapatra | महासितातपत्र — 薩怛多般怛囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+366. Nam-mô tý đô đế # 歸命 | Śaraṇāgati | शरणागति — 南無粹都帝 nhắc quy mạng là trao thân tâm về chánh pháp, không giao cho sợ hãi.
+367. A tất đa na ra lặc ca # 無上守護 | Anuttara-rakṣā | अनुत्तर-रक्षा — 阿悉多那囉剌迦 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+368. Ba ra bà # 圓滿 | Paripūrṇa | परिपूर्ण — 波囉婆 nhắc viên mãn không phải đủ mọi thứ, mà là tâm biết trở về trong từng niệm.
+369. Tất phổ tra # 普遍 | Sarvatraga | सर्वत्रग — 悉普吒 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+370. Tỳ ca tát đác đa bát đế rị # 大白傘威德 | Mahāsitātapatra-tejas | महासितातपत्र-तेजस् — 毗迦薩怛多鉢帝唎 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+371. Thập Phật ra thập Phật ra # 十方佛 | Daśadigbuddha | दशदिग्बुद्ध — 什佛囉什佛囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+372. Ðà ra đà ra # 執持 | Dhāraṇa | धारण — 陀囉陀囉 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+373. 🙏 Tần đà ra tần đà ra # 斷除 | Chedana | छेदन — 頻陀囉頻陀囉 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+374. Sân đà sân đà # 摧伏 | Abhibhava | अभिभव — 瞋陀瞋陀 nhắc tồi phục là làm yếu gốc sợ hãi, không nuôi thêm sân hận.
+375. Hổ hồng hổ hồng # 威攝 | Ākarṣaṇa | आकर्षण — 虎吽虎吽 nhắc uy nhiếp là sức định làm vọng tưởng lặng xuống.
+376. Phấn tra phấn tra phấn tra phấn tra phấn tra # 破破破破破 | Bheda-bheda-bheda-bheda-bheda | भेद-भेद-भेद-भेद-भेद — 泮吒泮吒泮吒泮吒泮吒 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+377. Ta ha # 成就 | Siddhi | सिद्धि — 娑訶 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
+378. Hê hê phấn # 速破 | Kṣipra-bheda | क्षिप्र-भेद — 醯醯泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+379. A mâu ca da phấn # 無障破 | Avighna-bheda | अविघ्न-भेद — 阿牟迦耶泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+380. A ba ra đề ha da phấn # 無敵破 | Aparājita-bheda | अपराजित-भेद — 阿波囉提訶多泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+381. Ba ra bà ra đà phấn # 大破 | Mahābheda | महाभेद — 婆囉波囉陀泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+382. A tố ra # 阿修羅 | Asura | असुर — 阿素囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+383. Tỳ đà ra # 破壞 | Vināśa | विनाश — 毗陀囉 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+384. Ba ca phấn # 焚燒 | Dahana | दहन — 波迦泮 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+385. 🙏 Tát bà đề bệ tệ phấn # 一切天破 | Sarva-deva-bheda | सर्व-देव-भेद — 薩婆提鞞弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+386. Tát bà na dà tệ phấn # 一切龍破 | Sarva-nāga-bheda | सर्व-नाग-भेद — 薩婆那伽弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+387. Tát bà dược xoa tệ phấn # 一切夜叉破 | Sarva-yakṣa-bheda | सर्व-यक्ष-भेद — 薩婆藥叉弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+388. Tát bà kiền thát bà tệ phấn # 一切乾闥婆破 | Sarva-gandharva-bheda | सर्व-गन्धर्व-भेद — 薩婆乾闥婆弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+389. Tát bà bổ đơn na tệ phấn # 一切富單那破 | Sarva-pūtana-bheda | सर्व-पूतन-भेद — 薩婆補丹那弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+390. Ca tra bổ đơn na tệ phấn # 迦吒富單那破 | Kaṭapūtana-bheda | कटपूतन-भेद — 迦吒補丹那弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+391. Tát bà đột lang chỉ đế tệ phấn # 一切惡鬼破 | Sarva-duṣṭabhūta-bheda | सर्व-दुष्टभूत-भेद — 薩婆突狼枳帝弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+392. Tát bà đột sáp tỷ lê # 一切惡神 | Sarva-duṣṭadeva | सर्व-दुष्टदेव — 薩婆突澀比犁 nhắc tất cả pháp đều rỗng rang, nhưng lòng từ với chúng sinh không được rỗng mất.
+393. Hất sắc đế tệ phấn # 摧滅 | Vidhvaṃsana | विध्वंसन — 訖瑟帝弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+394. Tát bà thập bà lê tệ phấn # 一切執破 | Sarva-graha-bheda | सर्व-ग्रह-भेद — 薩婆什婆犁弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+395. Tát bà a bá tất ma lê tệ phấn # 一切癲狂破 | Sarva-apasmāra-bheda | सर्व-अपस्मार-भेद — 薩婆阿播悉摩犁弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+396. Tát bà xá ra bà noa tệ phấn # 一切邪說破 | Sarva-mithyāvāda-bheda | सर्व-मिथ्यावाद-भेद — 薩婆舍囉婆拏弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+397. 🙏 Tát bà địa đế kê tệ phấn # 一切地祇破 | Sarva-pṛthivīdevatā-bheda | सर्व-पृथिवीदेवता-भेद — 薩婆地帝雞弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+398. Tát bà đát ma đà kê tệ phấn # 一切魔破 | Sarva-māra-bheda | सर्व-मार-भेद — 薩婆怛摩陀繼弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+399. Tát bà tệ đà da # 一切外道 | Sarva-tīrthika | सर्व-तीर्थिक — 薩婆毗陀耶 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+400. Ra thệ giá lê tệ phấn # 王難破 | Rāja-bhaya-bheda | राज-भय-भेद — 囉誓遮犁弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+401. Xà dạ yết ra # 勝利 | Jaya | जय — 闍夜羯囉 nhắc thắng lợi là thắng vô minh trong tâm, không phải thắng người khác.
+402. Ma độ yết ra # 破魔 | Māra-bheda | मार-भेद — 摩度羯囉 nhắc phá ma là phá tiếng nói khiến mình xa chân tâm và xa chúng sinh.
+403. Tát bà ra tha ta đà kê tệ phấn # 一切成就 | Sarvārthasiddhi | सर्वार्थसिद्धि — 薩婆囉他娑陀雞弊泮 nhắc tất cả pháp đều rỗng rang, nhưng lòng từ với chúng sinh không được rỗng mất.
+404. Tỳ địa dạ # 智慧 | Vidyā | विद्या — 毗地夜 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+405. Giá lê tệ phấn # 摧滅 | Vidhvaṃsana | विध्वंसन — 遮唎弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+406. Giả đô ra # 堅固 | Dṛḍha | दृढ — 者都囉 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+407. Phược kỳ nể tệ phấn # 吉祥破 | Maṅgala-vighna-bheda | मङ्गल-विघ्न-भेद — 縛耆你弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+408. Bạt xà ra # 金剛 | Vajra | वज्र — 跋闍囉 nhắc Kim Cang là trí tuệ cứng chắc phá tà mà không làm mất từ bi.
+409. 🙏 Câu ma rị # 金剛女 | Vajra-kumārī | वज्र-कुमारी — 俱摩唎 nhắc Kim Cang nữ là sức mềm lành nhưng không bị vô minh bẻ gãy.
+410. Tỳ đà dạ # 智慧 | Vidyā | विद्या — 毗陀夜 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+411. La thệ tệ phấn # 王難破 | Rāja-bhaya-bheda | राज-भय-भेद — 囉誓弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+412. Ma ha ba ra đinh dương # 大威光 | Mahātejoprabhā | महातेजोप्रभा — 摩訶波囉丁羊 nhắc ánh sáng thật là trí tuệ tự tâm: soi vọng tưởng mà không chạy theo.
+413. Xoa kỳ rị tệ phấn # 速破 | Kṣipra-bheda | क्षिप्र-भेद — 乂耆唎弊泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+414. Bạt xà ra thương yết ra dạ # 金剛鎧 | Vajra-kavaca | वज्र-कवच — 跋闍囉商羯囉夜 nhắc áo giáp Kim Cang là giới định tuệ giữ tâm khỏi độc tà.
+415. Ba ra trượng kỳ ra xà da phấn # 大自在王破 | Mahāsvatantrarāja-bheda | महास्वतन्त्रराज-भेद — 波囉丈耆囉闍耶泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+416. Ma ha ca ra dạ # 大黑天 | Mahākāla | महाकाल — 摩訶迦囉夜 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+417. Ma ha mạt đát rị ca noa # 大天母 | Mahādevamātṛ | महादेवमातृ — 摩訶末怛唎迦拏 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+418. Nam-mô ta yết rị đa da phấn # 成就破 | Siddhi-vighna-bheda | सिद्धि-विघ्न-भेद — 南無娑羯唎多夜泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+419. Tỷ sắc noa tỳ duệ phấn # 毘濕奴破 | Viṣṇu-bheda | विष्णु-भेद — 毖瑟拏婢曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+420. Bột ra ha mâu ni duệ phấn # 梵天破 | Brahmā-bheda | ब्रह्मा-भेद — 勃囉訶牟尼曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+421. 🙏 A kỳ ni duệ phấn # 火神破 | Agni-bheda | अग्नि-भेद — 阿耆尼曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+422. Ma ha yết rị duệ phấn # 大作破 | Mahākārya-bheda | महाकार्य-भेद — 摩訶羯唎曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+423. Yết ra đàn tri duệ phấn # 夜叉主破 | Yakṣādhipati-bheda | यक्षाधिपति-भेद — 羯囉檀遲曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+424. Miệc đát rị duệ phấn # 母神破 | Mātṛdevī-bheda | मातृदेवी-भेद — 蔑怛唎曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+425. Lao đát rị duệ phấn # 羅怛利破 | Rātri-bheda | रात्रि-भेद — 嘮怛唎曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+426. Giá văn trà duệ phấn # 夜神破 | Rātrideva-bheda | रात्रिदेव-भेद — 遮文茶曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+427. Yết la ra đác rị duệ phấn # 鬼女破 | Yakṣiṇī-bheda | यक्षिणी-भेद — 羯邏囉怛唎曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+428. Ca bát rị duệ phấn # 護法破 | Dharmapāla-vighna-bheda | धर्मपाल-विघ्न-भेद — 迦般唎曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+429. A địa mục chất đa # 殊勝解 | Adhimukti | अधिमुक्ति — 阿地目質多 nhắc thắng giải là hiểu sâu tính không, nên không sợ cảnh sinh diệt.
+430. Ca thi ma xá na # 捨身 | Kāya-tyāga | काय-त्याग — 迦尸摩舍那 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+431. Bà tư nể duệ phấn # 清淨破 | Viśuddhi-vighna-bheda | विशुद्धि-विघ्न-भेद — 婆私你曳泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+432. Diễn kiết chất # 結界 | Sīmābandha | सीमाबन्ध — 演吉質 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+433. 🙏 Tát đỏa bà tỏa # 勇猛 | Vīrya | वीर्य — 薩埵婆寫 nhắc dũng mãnh là dám nhìn thẳng vọng tâm và quay về tánh giác.
+434. Mạ mạ ấn thố na mạ mạ tỏa # 自身圓滿成就 | Ātma-paripūrṇa-siddhi | आत्म-परिपूर्ण-सिद्धि — 麼麼印兔那麼麼寫 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+435. @@@@@ Ðột sắc tra chất đa # 惡心 | Duṣṭacitta | दुष्टचित्त — 突瑟吒質多 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+436. A mạt đác rị chất đa # 不善心 | Akuśalacitta | अकुशलचित्त — 阿末怛唎質多 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+437. Ô xà ha ra # 奪氣 | Prāṇa-haraṇa | प्राण-हरण — 烏闍訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+438. Dà ba ha ra # 奪力 | Bala-haraṇa | बल-हरण — 伽婆訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+439. Lô địa ra ha ra # 奪血 | Rakta-haraṇa | रक्त-हरण — 嚧地囉訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+440. Ta bà ha ra # 奪精 | Śukra-haraṇa | शुक्र-हरण — 婆娑訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+441. Ma xà ha ra # 奪髓 | Majjā-haraṇa | मज्जा-हरण — 摩闍訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+442. Xà đa ha ra # 奪命 | Prāṇa-haraṇa | प्राण-हरण — 闍多訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+443. Thị tỉ đa ha ra # 奪識 | Vijñāna-haraṇa | विज्ञान-हरण — 室比多訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+444. Bạt lược dạ ha ra # 奪壽 | Āyuḥ-haraṇa | आयुः-हरण — 跋略夜訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+445. 🙏 Kiền đà ha ra # 奪香氣 | Gandha-haraṇa | गन्ध-हरण — 乾陀訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+446. Bố sữ ba ha ra # 奪花氣 | Puṣpa-haraṇa | पुष्प-हरण — 布史波訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+447. Phả ra ha ra # 奪光 | Prabhā-haraṇa | प्रभा-हरण — 頗囉訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+448. Bà tả ha ra # 奪語 | Vāk-haraṇa | वाक्-हरण — 婆寫訶囉 nhắc thân mạng mong manh; càng thấy vô thường càng phải giữ tâm sáng và thương chúng sinh.
+449. Bát ba chất đa # 邪念 | Mithyāsaṃkalpa | मिथ्यासंकल्प — 般波質多 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+450. Ðột sắc tra chất đa # 惡心 | Duṣṭacitta | दुष्टचित्त — 突瑟吒質多 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+451. Lao đà ra chất đa # 羅怛利心 | Rātricitta | रात्रिचित्त — 嘮陀囉質多 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+452. Dược xoa yết ra ha # 夜叉執 | Yakṣa-graha | यक्ष-ग्रह — 藥叉揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+453. Ra sát ta yết ra ha # 羅剎執 | Rākṣasa-graha | राक्षस-ग्रह — 囉剎娑揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+454. Bế lệ đa yết ra ha # 餓鬼執 | Preta-graha | प्रेत-ग्रह — 閉隸多揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+455. Tỳ xá giá yết ra ha # 毘舍遮執 | Piśāca-graha | पिशाच-ग्रह — 毗舍遮揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+456. Bộ đa yết ra ha # 部多鬼 | Bhūta | भूत — 部多揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+457. 🙏 Cưu bàn trà yết ra ha # 鳩槃荼 | Kumbhāṇḍa | कुम्भाण्ड — 鳩槃茶揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+458. Tất kiền đà yết ra ha # 乾闥婆 | Gandharva | गन्धर्व — 悉乾陀揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+459. Ô đát ma đà yết ra ha # 狂鬼 | Unmāda-graha | उन्माद-ग्रह — 烏怛摩陀揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+460. Xa dạ yết ra ha # 夜魅 | Rātri-graha | रात्रि-ग्रह — 車夜揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+461. A bá tất ma ra yết ra ha # 癲狂 | Apasmāra | अपस्मार — 阿播薩摩囉揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+462. Trạch khê cách # 驅逐 | Uccāṭana | उच्चाटन — 宅祛革 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+463. Trà kỳ ni yết ra ha # 茶吉尼 | Ḍākinī | डाकिनी — 茶耆尼揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+464. Rị Phật đế yết ra ha # 毘佛提 | Vibhūti | विभूति — 唎佛帝揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+465. Xà di ca yết ra ha # 邪魅 | Mithyāgraha | मिथ्याग्रह — 闍彌迦揭囉訶 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+466. Xá câu ni yết ra ha # 鳥鬼 | Pakṣi-graha | पक्षि-ग्रह — 舍俱尼揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+467. Lao đà ra # 羅怛利 | Rātri | रात्रि — 姥陀囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+468. Nan địa ca yết ra ha # 難提鬼 | Nandigraha | नन्दिग्रह — 難地迦揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+469. 🙏 A lam bà yết ra ha # 阿藍婆 | Ālamba | आलम्ब — 阿藍婆揭囉訶 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+470. Kiền độ ba ni yết ra ha # 香鬼 | Gandha-graha | गन्ध-ग्रह — 乾度波尼揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+471. Thập phạt ra # 十方 | Daśadik | दशदिक् — 什佛囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+472. Yên ca hê ca # 驅散 | Vidravana | विद्रवन — 堙迦醯迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+473. Trị đế dược ca # 治癒 | Cikitsā | चिकित्सा — 墜帝藥迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+474. Ðát lệ đế dược ca # 除病 | Vyādhi-nivāraṇa | व्याधि-निवारण — 怛隸帝藥迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+475. Giả đột thác ca # 斷除 | Chedana | छेदन — 者突托迦 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+476. Ni đề thập phạt ra # 十方守護 | Daśadik-rakṣā | दशदिक्-रक्षा — 昵提什伐囉 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+477. Tỉ sam ma thập phạt ra # 平等守護 | Samatā-rakṣā | समता-रक्षा — 毖釤摩什伐囉 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+478. Bạt để ca # 護持 | Pālana | पालन — 薄底迦 nhắc hộ trì là giữ giới, giữ tâm, rồi đem sự an ổn ấy che chở chúng sinh.
+479. Tỷ để ca # 安定 | Sthiratā | स्थिरता — 鼻底迦 nhắc an định là đất yên cho trí tuệ mọc lên.
+480. Thất lệ sắc mật ca # 吉祥密 | Maṅgala-guhya | मङ्गल-गुह्य — 室隸瑟密迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+481. 🙏 Ta nể bát để ca # 守護主 | Rakṣāpati | रक्षापति — 娑你般帝迦 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+482. Tát bà thập phạt ra # 一切守護 | Sarva-rakṣā | सर्व-रक्षा — 薩婆什伐囉 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+483. Thất lô kiết đế # 吉祥地 | Maṅgala-bhūmi | मङ्गल-भूमि — 室嚧吉帝 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+484. Mạt đà bệ đạt lô chế kiếm # 大威光 | Mahātejoprabhā | महातेजोप्रभा — 末陀鞞達嚧制劍 nhắc ánh sáng thật là trí tuệ tự tâm: soi vọng tưởng mà không chạy theo.
+485. A ỷ lô kiềm # 日輪 | Sūryamaṇḍala | सूर्यमण्डल — 阿綺嚧鉗 nhắc ánh sáng thật là trí tuệ tự tâm: soi vọng tưởng mà không chạy theo.
+486. Mục khê lô kiềm # 面輪 | Mukhamandala | मुखमन्दल — 目佉嚧鉗 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+487. Yết rị đột lô kiềm # 金輪 | Suvarṇacakra | सुवर्णचक्र — 羯唎突嚧鉗 nhắc ánh sáng thật là trí tuệ tự tâm: soi vọng tưởng mà không chạy theo.
+488. Yết ra ha # 執持 | Dhāraṇa | धारण — 揭囉訶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+489. Yết lam yết noa du lam # 咽喉 | Kaṇṭha | कण्ठ — 揭藍羯拏輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+490. Ðản đa du lam # 牙齒 | Danta | दन्त — 惮多輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+491. Hất rị dạ du lam # 心 | Hṛdaya | हृदय — 迄唎夜輸藍 nhắc tâm chú là lời gọi trở về: nhận ra chân tâm, buông tà niệm, nuôi lòng từ.
+492. Mạt mạ du lam # 脈 | Nāḍī | नाडी — 末麼輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+493. 🙏 Bạt rị thất bà du lam # 胸 | Uraḥ | उरः — 跋唎室婆輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+494. Tỷ lật sắc tra du lam # 脾 | Plīhā | प्लीहा — 毖栗瑟吒輸藍 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+495. Ô đà ra du lam # 腹 | Udara | उदर — 烏陀囉輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+496. Yết tri du lam # 脊 | Pṛṣṭha | पृष्ठ — 羯知輸藍 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+497. Bạt tất đế du lam # 膀胱 | Vasti | वस्ति — 跋悉帝輸藍 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+498. Ô lô du lam # 腿 | Ūru | ऊरु — 鄔嚧輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+499. Thường dà du lam # 腸 | Antra | अन्त्र — 常伽輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+500. Hắc tất đa du lam # 血 | Rakta | रक्त — 喝悉多輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+501. Bạt đà du lam # 骨 | Asthi | अस्थि — 跋陀輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+502. Ta phòng án dà # 房室 | Gṛha | गृह — 娑房盎伽 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+503. Bát ra trượng dà du lam # 臂 | Bāhu | बाहु — 般囉丈伽輸藍 nhắc thân này là pháp duyên sinh; chăm thân để tu học, không chấp thân là ta.
+504. Bộ đa tỷ đa trà # 諸鬼 | Sarvabhūta | सर्वभूत — 部多毖跢茶 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+505. 🙏 Trà kỳ ni # 茶吉尼 | Ḍākinī | डाकिनी — 茶耆尼 nhắc ma chướng là duyên thử đạo: giữ chánh niệm, không nuôi sợ hãi, không bỏ lòng từ.
+506. Thập bà ra # 十方 | Daśadik | दशदिक् — 什婆囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+507. Ðà đột lô ca # 大地 | Mahāpṛthivī | महापृथिवी — 陀突嚧迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+508. Kiến đốt lô kiết tri # 見聞 | Darśana-śravaṇa | दर्शन-श्रवण — 建咄嚧吉知 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+509. Bà lộ đa tỳ # 大風 | Mahāvāyu | महावायु — 婆路多毗 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+510. Tát bát lô # 一切 | Sarva | सर्व — 薩般嚧 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+511. Ha lăng già # 震動 | Kampana | कम्पन — 訶凌伽 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+512. Du sa đát ra # 守護 | Rakṣā | रक्षा — 輸沙怛囉 nhắc hộ trì là giữ mình trong giới định tuệ để có sức che chở chúng sinh.
+513. Ta na yết ra # 城守 | Nagara-pāla | नगर-पाल — 娑那羯囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+514. Tỳ sa dụ ca # 毒害 | Viṣa | विष — 毗沙喻迦 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+515. A kỳ ni # 火 | Agni | अग्नि — 阿耆尼 nhắc lửa sân phải được chuyển thành lửa tinh tấn và ánh sáng tuệ.
+516. Ô đà ca # 水 | Udaka | उदक — 烏陀迦 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+517. 🙏 Mạt ra bệ ra # 死魔 | Mṛtyu-māra | मृत्यु-मार — 末囉鞞囉 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+518. Kiến đa ra # 見魔 | Dṛṣṭi-māra | दृष्टि-मार — 建多囉 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+519. A ca ra # 不動 | Acala | अचल — 阿迦囉 nhắc bất động là nhận ra tánh thấy không lay dù cảnh đến đi.
+520. Mật rị đốt # 無死 | Amṛta | अमृत — 密唎咄 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+521. Ðát liểm bộ ca # 大怖 | Mahābhaya | महाभय — 怛斂部迦 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+522. Ðịa lật lặc tra # 地震 | Bhūmikampa | भूमिकम्प — 地栗剌吒 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+523. Tỷ rị sắc chất ca # 破壞 | Vināśa | विनाश — 毖唎瑟質迦 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+524. Tát bà na câu ra # 一切難 | Sarva-bhaya | सर्व-भय — 薩婆那俱囉 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+525. Tứ dẫn dà tệ # 四方 | Caturdiś | चतुर्दिश् — 肆引伽弊 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+526. Yết ra rị dược xoa # 夜叉 | Yakṣa | यक्ष — 揭囉唎藥叉 nhắc dạ xoa là hình ảnh của lực hung cần được hàng phục bằng pháp.
+527. Ðác ra sô # 毒蛇 | Viṣasarpā | विषसर्पा — 怛囉芻 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+528. Mạt ra thị # 魔使 | Māradūta | मारदूत — 末囉視 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+529. 🙏 Phệ đế sam # 彼等 | Te | ते — 吠帝釤 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+530. Ta bệ sam # 一切 | Sarva | सर्व — 娑鞞釤 nhắc tất cả pháp đều duyên sinh như huyễn, nên phải học buông chấp và thương rộng.
+531. Tất đát đa bát đác ra # 大白傘 | Mahāsitātapatra | महासितातपत्र — 悉怛多鉢怛囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+532. Ma ha bạt xà lô # 大金剛 | Mahāvajra | महावज्र — 摩訶跋闍嚧 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+533. Sắc ni sam # 頂相 | Uṣṇīṣa | उष्णीष — 瑟尼釤 nhắc đỉnh tướng là hướng thượng: nhìn lên trí tuệ thay vì cúi theo dục vọng.
+534. Ma ha bát lặc trượng kỳ lam # 大威光 | Mahātejoprabhā | महातेजोप्रभा — 摩訶般賴丈耆藍 nhắc ánh sáng thật là trí tuệ tự tâm: soi vọng tưởng mà không chạy theo.
+535. Dạ ba đột đà # 夜怖 | Rātri-bhaya | रात्रि-भय — 夜波突陀 nhắc các nạn đều vô thường; người tu lấy tánh thấy bất động làm nơi nương.
+536. Xá dụ xà na # 守護 | Rakṣā | रक्षा — 舍喻闍那 nhắc hộ trì là giữ mình trong giới định tuệ để có sức che chở chúng sinh.
+537. Biện đát lệ noa # 遍照 | Samantaprabhā | समन्तप्रभा — 辮怛隸拏 nhắc biến chiếu là soi khắp thân tâm, không để góc tối nào bị bỏ quên.
+538. Tỳ đà da # 智慧 | Vidyā | विद्या — 毗陀耶 là ánh sáng trí tuệ: soi rõ vô minh, nhận lại tánh thấy chưa từng mất.
+539. Bàn đàm ca lô di # 結界 | Sīmābandha | सीमाबन्ध — 槃曇迦嚧彌 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+540. Ðế thù # 堅固 | Dṛḍha | दृढ — 帝殊 nhắc kiên cố là giữ tánh thấy giữa biến động, không để tà niệm xâm chiếm.
+541. 🙏 Bàn đàm ca lô di # 結界 | Sīmābandha | सीमाबन्ध — 槃曇迦嚧彌 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+542. Bát ra tỳ đà # 破邪 | Mithyā-bheda | मिथ्या-भेद — 般囉毗陀 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+543. Bàn đàm ca lô di # 結界 | Sīmābandha | सीमाबन्ध — 槃曇迦嚧彌 nhắc hộ trì là dựng kết giới chánh niệm, bảo vệ tâm lành và bảo vệ chúng sinh.
+544. Ðát điệt tha # 即說咒曰 | Tadyathā | तद्यथा — 跢侄他 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+545. Án # 唵 | Oṃ | ओं — 唵 là tiếng mở cửa: gom thân khẩu ý về một niệm tỉnh sáng.
+546. A na lệ # 不動 | Acala | अचल — 阿那隸 nhắc bất động là nhận ra tánh thấy không lay dù cảnh đến đi.
+547. Tỳ xá đề # 清淨 | Viśuddhi | विशुद्धि — 毗舍提 nhắc thanh tịnh là buông tà niệm, để chân tâm tự sáng như gương.
+548. Bệ ra # 威力 | Bala | बल — 鞞囉 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+549. Bạt xà ra # 金剛 | Vajra | वज्र — 跋闍囉 nhắc Kim Cang là trí tuệ cứng chắc phá tà mà không làm mất từ bi.
+550. Ðà rị # 持 | Dhāraṇa | धारण — 陀唎 nhắc trì giữ là giữ chánh niệm trong từng hơi thở, không để tâm rò rỉ.
+551. Bàn đà bàn đà nể # 結結 | Bandha-bandha | बन्ध-बन्ध — 槃陀槃陀你 nhắc tôi trở về chân tâm: thấy các pháp như huyễn, bỏ tà niệm và nuôi lớn lòng từ.
+552. Bạt xà ra bán ni phấn # 金剛手破 | Vajrapāṇi-bheda | वज्रपाणि-भेद — 跋闍囉謗尼泮 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+553. 🙏 Hổ hồng đô lô ung phấn # 威攝破 | Ākarṣaṇa-bheda | आकर्षण-भेद — 吽吽都嚧雍吽 nhắc tôi phá tà nơi chính tâm: thấy vọng không thật, trở về tánh thấy bất diệt.
+554. Ta bà ha # 成就 | Siddhi | सिद्धि — 莎婆訶 nhắc thành tựu thật là trở về chân tâm và làm lành cho chúng sinh.
