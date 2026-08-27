@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-# >>> COLOR FOR c >>>
-_C_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-source "$_C_DIR/colorize_c.bash"
-# <<< COLOR FOR c <<<
-
-
 # >>> RANDOM COW COLOR >>>
 _cow_reset=$'\033[0m'
 _cow_colors=(
@@ -63,7 +57,7 @@ fi
 
 # Bò ASCII tự chế, không dùng cowsay ngoài
 echo " ______________________________"
-_color_mantra_line "< $QUOTE >"
+echo "< $QUOTE >"
 echo " ------------------------------"
 cow_color="$(_cow_random_color)"
 printf "%s" "$cow_color"
@@ -73,4 +67,5 @@ echo "            (__)\\       )\\/\\"
 echo "                ||----w |"
 echo "                ||     ||"
 printf "%s" "$_cow_reset"
+NA
 echo "                ||     ||"
