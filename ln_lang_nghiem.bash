@@ -72,6 +72,41 @@ _ln_color_han() {
 
 # ---- Read 1 key with timeout (auto-next) ----
 
+
+# ==========================================
+# Xác định Hội Chú Lăng Nghiêm cho header
+# ==========================================
+_ln_hoi_of() {
+  local n="$1"
+
+  if   (( n >= 1   && n <= 187 )); then printf 'lnc1'
+  elif (( n >= 188 && n <= 232 )); then printf 'lnc2'
+  elif (( n >= 233 && n <= 363 )); then printf 'lnc3'
+  elif (( n >= 364 && n <= 434 )); then printf 'lnc4'
+  elif (( n >= 435 && n <= 554 )); then printf 'lnc5'
+  else printf ''
+  fi
+}
+
+_ln_hoi_range() {
+  local s="$1"
+  local e="$2"
+  local hs he
+
+  hs="$(_ln_hoi_of "$s")"
+  he="$(_ln_hoi_of "$e")"
+
+  if [[ -n "$hs" && "$hs" == "$he" ]]; then
+    printf '%s' "$hs"
+  elif [[ -n "$hs" && -n "$he" ]]; then
+    printf '%s→%s' "$hs" "$he"
+  elif [[ -n "$hs" ]]; then
+    printf '%s' "$hs"
+  elif [[ -n "$he" ]]; then
+    printf '%s' "$he"
+  fi
+}
+
 # ==========================================
 # Word-wrap cho Mac Terminal + iSH
 # ==========================================
@@ -324,9 +359,21 @@ ln() {
     local b_start=$(( (rs - 1) / 12 ))
     local b_end=$(( (re - 1) / 12 ))
     if (( b_start == b_end )); then
-      echo "${rs}→${re} | B${b_start}"
+      local hoi_label
+      hoi_label="$(_ln_hoi_range "$rs" "$re")"
+      if [[ -n "$hoi_label" ]]; then
+        echo "${rs}→${re} | B${b_start} | ${hoi_label}"
+      else
+        echo "${rs}→${re} | B${b_start}"
+      fi
     else
-      echo "${rs}→${re} | B${b_start}→B${b_end}"
+      local hoi_label
+      hoi_label="$(_ln_hoi_range "$rs" "$re")"
+      if [[ -n "$hoi_label" ]]; then
+        echo "${rs}→${re} | B${b_start}→B${b_end} | ${hoi_label}"
+      else
+        echo "${rs}→${re} | B${b_start}→B${b_end}"
+      fi
     fi
   else
     local summary=""
@@ -346,7 +393,16 @@ ln() {
         block_summary="${block_summary}B${bs}→B${be}"
       fi
     done
-    echo "${summary} | ${block_summary}"
+    local first_rs last_re hoi_label
+    first_rs="${ranges[0]%%:*}"
+    last_re="${ranges[$(( ${#ranges[@]} - 1 ))]##*:}"
+    hoi_label="$(_ln_hoi_range "$first_rs" "$last_re")"
+
+    if [[ -n "$hoi_label" ]]; then
+      echo "${summary} | ${block_summary} | ${hoi_label}"
+    else
+      echo "${summary} | ${block_summary}"
+    fi
   fi
   echo "----------------------------------------"
 
