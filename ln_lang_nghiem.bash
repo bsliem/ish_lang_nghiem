@@ -66,6 +66,104 @@ _ln_color_han() {
 }
 
 # ---- Read 1 key with timeout (auto-next) ----
+
+# ==========================================
+# Word-wrap cho Mac Terminal + iSH
+# ==========================================
+_ln_term_cols() {
+  local cols=''
+
+  if [[ -n "$_LN_TTY" ]]; then
+    cols="$(stty size < "$_LN_TTY" 2>/dev/null | awk '{print $2}')"
+  fi
+
+  [[ "$cols" =~ ^[0-9]+$ ]] || cols="${COLUMNS:-80}"
+  [[ "$cols" =~ ^[0-9]+$ ]] || cols=80
+
+  cols=$(( cols - 4 ))
+  (( cols < 28 )) && cols=28
+
+  printf "%s" "$cols"
+}
+
+_ln_print_line() {
+  local n="$1"
+  local main="$2"
+  local han="$3"
+  local c_main="$4"
+  local c_han="$5"
+
+  local cols prefix indent width
+  local word line
+  local -a words
+
+  cols="$(_ln_term_cols)"
+
+  prefix="${n}. "
+  printf -v indent '%*s' "${#prefix}" ''
+
+  width=$(( cols - ${#prefix} ))
+  (( width < 16 )) && width=16
+
+  printf "%s%d.%s " "$_gray" "$n" "$_reset"
+
+  line=''
+  words=()
+  read -r -a words <<< "$main"
+
+  for word in "${words[@]}"; do
+    if [[ -z "$line" ]]; then
+      line="$word"
+    elif (( ${#line} + 1 + ${#word} <= width )); then
+      line="$line $word"
+    else
+      printf "%s%s%s%s\n" "$_bold" "$c_main" "$line" "$_reset"
+      printf "%s" "$indent"
+      line="$word"
+    fi
+  done
+
+  [[ -n "$line" ]] && printf "%s%s%s%s" \
+    "$_bold" "$c_main" "$line" "$_reset"
+
+  if [[ -n "${han//[[:space:]]/}" ]]; then
+    local used=$(( ${#line} + 3 + ${#han} ))
+
+    if (( used <= width )); then
+      printf " %s#%s %s%s%s%s\n" \
+        "$_gray" "$_reset" \
+        "$_bold" "$c_han" "$han" "$_reset"
+    else
+      printf "\n"
+      printf "%s%s#%s " "$indent" "$_gray" "$_reset"
+
+      local han_width=$(( width - 2 ))
+      (( han_width < 10 )) && han_width=10
+
+      line=''
+      words=()
+      read -r -a words <<< "$han"
+
+      for word in "${words[@]}"; do
+        if [[ -z "$line" ]]; then
+          line="$word"
+        elif (( ${#line} + 1 + ${#word} <= han_width )); then
+          line="$line $word"
+        else
+          printf "%s%s%s%s\n" "$_bold" "$c_han" "$line" "$_reset"
+          printf "%s  " "$indent"
+          line="$word"
+        fi
+      done
+
+      [[ -n "$line" ]] && printf "%s%s%s%s\n" \
+        "$_bold" "$c_han" "$line" "$_reset"
+    fi
+  else
+    printf "\n"
+  fi
+}
+
 _ln_read_key() {
   local key=""
   local timeout="${LN_TIMEOUT}"
@@ -267,16 +365,7 @@ ln() {
         c_main="$(_ln_color_main "$i")"
         c_han="$(_ln_color_han "$i")"
 
-        printf "%s%d.%s %s%s%s%s" \
-          "$_gray" "$i" "$_reset" \
-          "$_bold" "$c_main" "$main" "$_reset"
-
-        if [[ -n "${han//[[:space:]]/}" ]]; then
-          printf " %s#%s %s%s%s%s" \
-            "$_gray" "$_reset" \
-            "$_bold" "$c_han" "$han" "$_reset"
-        fi
-        printf "\n"
+        _ln_print_line "$i" "$main" "$han" "$c_main" "$c_han"
       fi
 
       key="$(_ln_read_key)"
