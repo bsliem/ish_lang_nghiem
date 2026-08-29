@@ -168,9 +168,12 @@ _c_print_quote() {
   if [[ -n "$english" ]]; then
     qlines=()
 
+    local wrapped=""
+    wrapped="$(_c_wrap_quote "$english" "$width")"
+
     while IFS= read -r line; do
-      qlines+=("$line")
-    done < <(_c_wrap_quote "$english" "$width")
+      [[ -n "$line" ]] && qlines+=("$line")
+    done <<< "$wrapped"
 
     last=$(( ${#qlines[@]} - 1 ))
 
