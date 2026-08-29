@@ -118,8 +118,10 @@ _c_wrap_quote() {
 
 _c_print_quote() {
   local cols width
-  local head meta english rest
-  local line
+  local head rest
+  local han_nghia sanskrit devanagari han_am english
+  local num viet
+  local line wrapped
   local -a qlines=()
   local i last
 
@@ -127,9 +129,9 @@ _c_print_quote() {
   width=$(( cols - 4 ))
   (( width < 24 )) && width=24
 
-  # Tách dữ liệu:
-  # trước #  = số câu + phiên âm
-  # sau #    = Hán/Sanskrit/... | English
+  # ========================================
+  # Tách phần trước và sau dấu #
+  # ========================================
   if [[ "$QUOTE" == *"#"* ]]; then
     head="${QUOTE%%#*}"
     rest="${QUOTE#*#}"
@@ -138,37 +140,88 @@ _c_print_quote() {
     rest=""
   fi
 
-  # bỏ khoảng trắng đầu/cuối
-  head="$(printf '%s' "$head" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
-  rest="$(printf '%s' "$rest" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
+  head="$(_cc_trim "$head")"
+  rest="$(_cc_trim "$rest")"
 
-  # Nếu có dấu | thì lấy phần cuối làm English
-  if [[ "$rest" == *"|"* ]]; then
-    english="${rest##*|}"
-    meta="${rest%|*}"
+  # ========================================
+  # Tách số câu + Hán-Việt
+  # ========================================
+  if [[ "$head" =~ ^([0-9]+)\.[[:space:]]*(.*)$ ]]; then
+    num="${BASH_REMATCH[1]}"
+    viet="${BASH_REMATCH[2]}"
   else
-    meta="$rest"
-    english=""
+    num=""
+    viet="$head"
   fi
 
-  meta="$(printf '%s' "$meta" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
-  english="$(printf '%s' "$english" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
+  viet="$(_cc_trim "$viet")"
 
-  # ---------- dòng phiên âm ----------
-  _color_mantra_line "< $head"
+  # ========================================
+  # Tách metadata + English
+  # ========================================
+  IFS='|' read -r \
+    han_nghia \
+    sanskrit \
+    devanagari \
+    han_am \
+    english <<< "$rest"
 
-  # ---------- metadata ----------
-  if [[ -n "$meta" ]]; then
-    _color_mantra_line "  # $meta"
+  han_nghia="$(_cc_trim "${han_nghia:-}")"
+  sanskrit="$(_cc_trim "${sanskrit:-}")"
+  devanagari="$(_cc_trim "${devanagari:-}")"
+  han_am="$(_cc_trim "${han_am:-}")"
+  english="$(_cc_trim "${english:-}")"
+
+  # ========================================
+  # DÒNG 1: < số + Hán-Việt
+  # ========================================
+  printf "%s<%s " "$_cc_gray" "$_cc_reset"
+
+  if [[ -n "$num" ]]; then
+    printf "%s%s.%s " \
+      "$_cc_gray" "$num" "$_cc_reset"
   fi
 
-  # ---------- dòng trống ----------
+  printf "%s%s%s%s\n" \
+    "$_cc_bold" "$_cc_green" "$viet" "$_cc_reset"
 
-  # ---------- English wrap riêng ----------
+  # ========================================
+  # DÒNG 2: metadata có màu
+  # ========================================
+  printf "  %s#%s" "$_cc_gray" "$_cc_reset"
+
+  if [[ -n "$han_nghia" ]]; then
+    printf " %s%s%s%s" \
+      "$_cc_bold" "$_cc_purple" "$han_nghia" "$_cc_reset"
+  fi
+
+  if [[ -n "$sanskrit" ]]; then
+    printf " %s|%s %s%s%s%s" \
+      "$_cc_gray" "$_cc_reset" \
+      "$_cc_bold" "$_cc_red" "$sanskrit" "$_cc_reset"
+  fi
+
+  if [[ -n "$devanagari" ]]; then
+    printf " %s|%s %s%s%s%s" \
+      "$_cc_gray" "$_cc_reset" \
+      "$_cc_bold" "$_cc_yellow" "$devanagari" "$_cc_reset"
+  fi
+
+  if [[ -n "$han_am" ]]; then
+    printf " %s|%s %s%s%s%s" \
+      "$_cc_gray" "$_cc_reset" \
+      "$_cc_bold" "$_cc_cyan" "$han_am" "$_cc_reset"
+  fi
+
+  printf "\n"
+
+  # ========================================
+  # English: wrap riêng, màu trắng
+  # KHÔNG dùng process substitution
+  # ========================================
   if [[ -n "$english" ]]; then
     qlines=()
 
-    local wrapped=""
     wrapped="$(_c_wrap_quote "$english" "$width")"
 
     while IFS= read -r line; do
@@ -178,14 +231,17 @@ _c_print_quote() {
     last=$(( ${#qlines[@]} - 1 ))
 
     for (( i=0; i<=last; i++ )); do
+      printf "  %s%s%s" \
+        "$_cc_english" "${qlines[$i]}" "$_cc_reset"
+
       if (( i == last )); then
-        _color_mantra_line "  ${qlines[$i]} >"
-      else
-        _color_mantra_line "  ${qlines[$i]}"
+        printf " %s>%s" "$_cc_gray" "$_cc_reset"
       fi
+
+      printf "\n"
     done
   else
-    _color_mantra_line "  >"
+    printf "  %s>%s\n" "$_cc_gray" "$_cc_reset"
   fi
 }
 
