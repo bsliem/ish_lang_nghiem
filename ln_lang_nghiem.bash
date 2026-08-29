@@ -11,6 +11,11 @@
 #   ln 0* 1* 2*       # gộp nhiều block, hiển thị LIỀN MẠCH (vd 1→36)
 #   ln 0*:2*          # range block: block 0 tới 2 (vd 1→36)
 #   lnk "tát đát"     # liệt kê match -> chọn -> tụng tới hết block 12
+#   lnc1              # Đệ nhất hội: 1 → 187
+#   lnc2              # Đệ nhị hội : 188 → 232
+#   lnc3              # Đệ tam hội : 233 → 363
+#   lnc4              # Đệ tứ hội  : 364 → 434
+#   lnc5              # Đệ ngũ hội : 435 → 554
 # Keys while chanting:
 #   (no key) 3s = auto next
 #   any key  = next immediately
@@ -487,6 +492,77 @@ EOF
 
 # <<< lnN 4-line shortcuts <<<
 
+# >>> lnc1 ... lnc5 : 5 hội Chú Lăng Nghiêm >>>
+# ==========================================
+# lnc1 -> Đệ nhất hội :   1 → 187
+# lnc2 -> Đệ nhị hội  : 188 → 232
+# lnc3 -> Đệ tam hội  : 233 → 363
+# lnc4 -> Đệ tứ hội   : 364 → 434
+# lnc5 -> Đệ ngũ hội  : 435 → 554
+#
+# Dùng chính hàm ln() để thừa hưởng toàn bộ format.
+# ==========================================
+
+_ln_assembly() {
+  local hoi="${1:-}"
+
+  case "$hoi" in
+    1)
+      ln 1 187
+      ;;
+    2)
+      ln 188 232
+      ;;
+    3)
+      ln 233 363
+      ;;
+    4)
+      ln 364 434
+      ;;
+    5)
+      ln 435 554
+      ;;
+    *)
+      echo "❌ Hội phải từ 1 đến 5."
+      echo "Ví dụ: lnc1 | lnc2 | lnc3 | lnc4 | lnc5"
+      return 1
+      ;;
+  esac
+}
+
+
+_ln_install_assemblies() {
+  local bin_dir="$HOME/.local/bin"
+  local script_path="$_LN_DIR/ln_lang_nghiem.bash"
+  local n target
+
+  mkdir -p "$bin_dir"
+
+  for n in 1 2 3 4 5; do
+    target="$bin_dir/lnc$n"
+
+    cat > "$target" <<EOF
+#!/usr/bin/env bash
+exec bash "$script_path" assembly "$n"
+EOF
+
+    chmod +x "$target"
+  done
+
+  echo
+  echo "✅ Đã tạo lnc1 ... lnc5"
+  echo "📁 $bin_dir"
+  echo
+  echo "  lnc1  -> 1 → 187   | Đệ nhất hội"
+  echo "  lnc2  -> 188 → 232 | Đệ nhị hội"
+  echo "  lnc3  -> 233 → 363 | Đệ tam hội"
+  echo "  lnc4  -> 364 → 434 | Đệ tứ hội"
+  echo "  lnc5  -> 435 → 554 | Đệ ngũ hội"
+}
+
+# <<< lnc1 ... lnc5 : 5 hội Chú Lăng Nghiêm <<<
+
+
 # ==========================================
 # Dispatcher
 # Cho phép chạy trực tiếp:
@@ -496,6 +572,18 @@ EOF
 # ==========================================
 if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
   case "${1:-}" in
+
+    # cài lnc1 ... lnc5
+    install-lnc|install-assemblies)
+      _ln_install_assemblies
+      ;;
+
+    # lnc1 ... lnc5 -> tụng trọn từng hội
+    assembly|lnc)
+      shift
+      _ln_assembly "$@"
+      ;;
+
 
     # cài ln1 ... ln554
     install-ln4|install-shortcuts)
