@@ -619,6 +619,45 @@ EOF
 # <<< lnc1 ... lnc5 : 5 hội Chú Lăng Nghiêm <<<
 
 
+
+# >>> b0 ... b46 : shortcut block 12 câu >>>
+# ==========================================
+_ln_block_shortcut() {
+  local block="${1:-}"
+
+  [[ "$block" =~ ^[0-9]+$ ]] || {
+    echo "❌ Ví dụ: b0 | b1 | b3 | b20"
+    return 1
+  }
+
+  ln "${block}*"
+}
+
+_ln_install_blocks() {
+  local bin_dir="$HOME/.local/bin"
+  local script_path="$_LN_DIR/ln_lang_nghiem.bash"
+  local n target
+
+  mkdir -p "$bin_dir"
+
+  for (( n=0; n<=46; n++ )); do
+    target="$bin_dir/b$n"
+
+    cat > "$target" <<EOF
+#!/usr/bin/env bash
+exec bash "$script_path" block "$n"
+EOF
+
+    chmod +x "$target"
+  done
+
+  echo "✅ Đã tạo b0 ... b46"
+  echo "  b0  = ln 0*"
+  echo "  b3  = ln 3*"
+  echo "  b20 = ln 20*"
+}
+# <<< b0 ... b46 <<<
+
 # ==========================================
 # Dispatcher
 # Cho phép chạy trực tiếp:
@@ -628,6 +667,18 @@ EOF
 # ==========================================
 if [[ "${BASH_SOURCE[0]}" == "$0" ]]; then
   case "${1:-}" in
+
+    # cài b0 ... b46
+    install-b|install-blocks)
+      _ln_install_blocks
+      ;;
+
+    # bN -> tương đương ln N*
+    block)
+      shift
+      _ln_block_shortcut "$@"
+      ;;
+
 
     # cài lnc1 ... lnc5
     install-lnc|install-assemblies)
